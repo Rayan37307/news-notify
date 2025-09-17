@@ -26,6 +26,8 @@ except Exception:
 import tempfile
 import shutil
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service as ChromeService
+from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -172,9 +174,12 @@ def fetch_article_image(article_url):
         options.headless = True
         options.add_argument("--no-sandbox")
         options.add_argument("--disable-dev-shm-usage")
-        options.add_argument("--disable-gpu")
         options.add_argument("--window-size=1920,1080")
         options.add_argument("user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36")
+        # Use system Google Chrome if available
+        chrome_bin = os.getenv("CHROME_BIN")
+        if chrome_bin and os.path.exists(chrome_bin):
+            options.binary_location = chrome_bin
 
         driver = None
         tmp_profile_dir = None
@@ -184,7 +189,9 @@ def fetch_article_image(article_url):
             options.add_argument(f"--user-data-dir={tmp_profile_dir}")
             options.add_argument("--no-first-run")
             options.add_argument("--no-default-browser-check")
-            driver = webdriver.Chrome(options=options)
+            # Use a matching chromedriver
+            service = ChromeService(ChromeDriverManager().install())
+            driver = webdriver.Chrome(service=service, options=options)
             driver.get(article_url)
 
             WebDriverWait(driver, 12).until(
@@ -692,9 +699,11 @@ def get_latest_news():
     options.headless = True
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
-    options.add_argument("--disable-gpu")
     options.add_argument("--window-size=1920,1080")
     options.add_argument("user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36")
+    chrome_bin = os.getenv("CHROME_BIN")
+    if chrome_bin and os.path.exists(chrome_bin):
+        options.binary_location = chrome_bin
     
     driver = None
     tmp_profile_dir = None
@@ -704,7 +713,8 @@ def get_latest_news():
         options.add_argument(f"--user-data-dir={tmp_profile_dir}")
         options.add_argument("--no-first-run")
         options.add_argument("--no-default-browser-check")
-        driver = webdriver.Chrome(options=options)
+        service = ChromeService(ChromeDriverManager().install())
+        driver = webdriver.Chrome(service=service, options=options)
         driver.get(NEWS_URL)
         
         # Wait for content to load
