@@ -23,6 +23,8 @@ try:
     from zoneinfo import ZoneInfo
 except Exception:
     ZoneInfo = None
+import tempfile
+import shutil
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -175,7 +177,13 @@ def fetch_article_image(article_url):
         options.add_argument("user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36")
 
         driver = None
+        tmp_profile_dir = None
         try:
+            # Use a unique user-data-dir to avoid profile lock conflicts on servers
+            tmp_profile_dir = tempfile.mkdtemp(prefix="newsbot-chrome-")
+            options.add_argument(f"--user-data-dir={tmp_profile_dir}")
+            options.add_argument("--no-first-run")
+            options.add_argument("--no-default-browser-check")
             driver = webdriver.Chrome(options=options)
             driver.get(article_url)
 
@@ -300,6 +308,8 @@ def fetch_article_image(article_url):
         finally:
             if driver:
                 driver.quit()
+            if tmp_profile_dir:
+                shutil.rmtree(tmp_profile_dir, ignore_errors=True)
 
     except Exception as e:
         logger.error(f"Error in fetch_article_image: {e}")
@@ -687,7 +697,13 @@ def get_latest_news():
     options.add_argument("user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36")
     
     driver = None
+    tmp_profile_dir = None
     try:
+        # Use a unique user-data-dir to avoid profile lock conflicts on servers
+        tmp_profile_dir = tempfile.mkdtemp(prefix="newsbot-chrome-")
+        options.add_argument(f"--user-data-dir={tmp_profile_dir}")
+        options.add_argument("--no-first-run")
+        options.add_argument("--no-default-browser-check")
         driver = webdriver.Chrome(options=options)
         driver.get(NEWS_URL)
         
@@ -745,6 +761,8 @@ def get_latest_news():
     finally:
         if driver:
             driver.quit()
+        if tmp_profile_dir:
+            shutil.rmtree(tmp_profile_dir, ignore_errors=True)
 
 def process_and_send_news():
     """Process news and send to Telegram"""
