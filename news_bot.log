@@ -1,0 +1,863 @@
+2025-09-17 19:20:08 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 19:20:08 - INFO - No previous links found or invalid JSON, starting fresh: [Errno 2] No such file or directory: 'posted_links.json'
+2025-09-17 19:20:09 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:20:09 - INFO - 🧪 Creating test news card...
+2025-09-17 19:20:09 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 19:20:09 - INFO - Fetching image from: https://test.com
+2025-09-17 19:20:46 - INFO - Using meta image: https://img.atom.com/story_images/visual_images/1706201190-Test_main.png?class=show
+2025-09-17 19:20:46 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 19:20:47 - INFO - ✅ News card created successfully! Size: 390534 bytes
+2025-09-17 19:20:50 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 19:20:50 - INFO - 🔄 Starting news check cycle...
+2025-09-17 19:20:50 - INFO - 🔍 Checking for latest news...
+2025-09-17 19:20:54 - INFO - 📰 Found 12 articles
+2025-09-17 19:20:54 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 19:20:54 - INFO - 🆕 New article: Orientation for freshers-reception for meritorious students ...
+2025-09-17 19:20:54 - INFO - Creating news card for: Orientation for freshers-reception for meritorious...
+2025-09-17 19:20:54 - INFO - Fetching image from: https://www.bangladeshguardian.com/education/28466
+2025-09-17 19:20:56 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/orientation-for-freshers-and-reception-for-meritorious-students-held-at-civil-aviation-school-and-college-bg-bangladesh-guardian-1758115147.jpg
+2025-09-17 19:20:56 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 19:20:57 - INFO - ✅ News card created successfully! Size: 1294365 bytes
+2025-09-17 19:21:00 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 19:21:00 - INFO - ✅ Article posted successfully
+2025-09-17 19:21:02 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:21:02 - INFO - Saved 1 posted links
+2025-09-17 19:21:05 - INFO - 🆕 New article: Sheikh Hasina, family barred from voting: EC...
+2025-09-17 19:21:05 - INFO - Creating news card for: Sheikh Hasina, family barred from voting: EC...
+2025-09-17 19:21:05 - INFO - Fetching image from: https://www.bangladeshguardian.com/national/28465
+2025-09-17 19:21:08 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/ec-building2-bg-1758114860.jpg
+2025-09-17 19:21:08 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 19:21:09 - INFO - ✅ News card created successfully! Size: 1099186 bytes
+2025-09-17 19:21:12 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 19:21:12 - INFO - ✅ Article posted successfully
+2025-09-17 19:21:13 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:21:13 - INFO - Saved 2 posted links
+2025-09-17 19:21:16 - INFO - 🆕 New article: Dengue claims 5 lives in a day, 622 hospitalised...
+2025-09-17 19:21:16 - INFO - Creating news card for: Dengue claims 5 lives in a day, 622 hospitalised...
+2025-09-17 19:21:16 - INFO - Fetching image from: https://www.bangladeshguardian.com/health-lifestyle/28464
+2025-09-17 19:21:19 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/dengue-dghs-bg-bangladesh-guardian-1758114393.jpg
+2025-09-17 19:21:19 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 19:21:20 - INFO - ✅ News card created successfully! Size: 1402576 bytes
+2025-09-17 19:21:24 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 19:21:24 - INFO - ✅ Article posted successfully
+2025-09-17 19:21:25 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:21:25 - INFO - Saved 3 posted links
+2025-09-17 19:21:28 - INFO - 🆕 New article: Govt raises Durga Puja grant to Tk5cr...
+2025-09-17 19:21:28 - INFO - Creating news card for: Govt raises Durga Puja grant to Tk5cr...
+2025-09-17 19:21:28 - INFO - Fetching image from: https://www.bangladeshguardian.com/national/28463
+2025-09-17 19:21:30 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/moha-bg-1758114266.jpg
+2025-09-17 19:21:30 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 19:21:31 - INFO - ✅ News card created successfully! Size: 720136 bytes
+2025-09-17 19:21:35 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 19:21:35 - INFO - ✅ Article posted successfully
+2025-09-17 19:21:35 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:21:35 - INFO - Saved 4 posted links
+2025-09-17 19:21:38 - INFO - 🆕 New article: Indian video propagates claim scene of Hasnat Abdullah and T...
+2025-09-17 19:21:38 - INFO - Creating news card for: Indian video propagates claim scene of Hasnat Abdu...
+2025-09-17 19:21:38 - INFO - Fetching image from: https://www.bangladeshguardian.com/fact-check/28462
+2025-09-17 19:21:41 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/hasnat-abdullah-tasnim-jara-ncp-factcheck-rumor-scanner-bg-bangladesh-guardian-1758113703.jpg
+2025-09-17 19:21:41 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 19:21:42 - INFO - ✅ News card created successfully! Size: 1001735 bytes
+2025-09-17 19:21:44 - INFO - Shutting down bot...
+2025-09-17 19:21:44 - INFO - Saved 4 posted links
+2025-09-17 19:23:46 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 19:23:46 - INFO - Loaded 4 previously posted links
+2025-09-17 19:23:47 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:23:47 - INFO - 🧪 Creating test news card...
+2025-09-17 19:23:47 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 19:23:47 - INFO - Fetching image from: https://test.com
+2025-09-17 19:23:57 - WARNING - No suitable image found after exhaustive checks
+2025-09-17 19:23:57 - INFO - ✅ News card created successfully! Size: 349176 bytes
+2025-09-17 19:23:59 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 19:23:59 - INFO - 🔄 Starting news check cycle...
+2025-09-17 19:23:59 - INFO - 🔍 Checking for latest news...
+2025-09-17 19:24:04 - INFO - 📰 Found 12 articles
+2025-09-17 19:24:04 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 19:24:04 - INFO - 🆕 New article: Indian video propagates claim scene of Hasnat Abdullah and T...
+2025-09-17 19:24:04 - INFO - Creating news card for: Indian video propagates claim scene of Hasnat Abdu...
+2025-09-17 19:24:04 - INFO - Fetching image from: https://www.bangladeshguardian.com/fact-check/28462
+2025-09-17 19:24:06 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/hasnat-abdullah-tasnim-jara-ncp-factcheck-rumor-scanner-bg-bangladesh-guardian-1758113703.jpg
+2025-09-17 19:24:06 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 19:24:07 - INFO - ✅ News card created successfully! Size: 1016845 bytes
+2025-09-17 19:24:10 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 19:24:10 - INFO - ✅ Article posted successfully
+2025-09-17 19:24:10 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:24:10 - INFO - Saved 5 posted links
+2025-09-17 19:24:11 - INFO - Shutting down bot...
+2025-09-17 19:24:11 - INFO - Saved 5 posted links
+2025-09-17 19:25:32 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 19:25:32 - INFO - Loaded 5 previously posted links
+2025-09-17 19:25:33 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:25:33 - INFO - 🧪 Creating test news card...
+2025-09-17 19:25:33 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 19:25:33 - INFO - Fetching image from: https://test.com
+2025-09-17 19:25:37 - WARNING - No suitable image found after exhaustive checks
+2025-09-17 19:25:38 - INFO - ✅ News card created successfully! Size: 352492 bytes
+2025-09-17 19:25:40 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 19:25:40 - INFO - 🔄 Starting news check cycle...
+2025-09-17 19:25:40 - INFO - 🔍 Checking for latest news...
+2025-09-17 19:25:44 - INFO - 📰 Found 12 articles
+2025-09-17 19:25:44 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 19:25:44 - INFO - 🆕 New article: CA Yunus to visit US on Sept 22...
+2025-09-17 19:25:44 - INFO - Creating news card for: CA Yunus to visit US on Sept 22...
+2025-09-17 19:25:44 - INFO - Fetching image from: https://www.bangladeshguardian.com/national/28467
+2025-09-17 19:25:46 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/ca-yunus-bg-1758115450.jpg
+2025-09-17 19:25:46 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 19:25:47 - INFO - ✅ News card created successfully! Size: 991129 bytes
+2025-09-17 19:25:52 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 19:25:52 - INFO - ✅ Article posted successfully
+2025-09-17 19:25:53 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:25:53 - INFO - Saved 6 posted links
+2025-09-17 19:25:53 - INFO - Shutting down bot...
+2025-09-17 19:25:53 - INFO - Saved 6 posted links
+2025-09-17 19:30:10 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 19:30:10 - INFO - Loaded 6 previously posted links
+2025-09-17 19:30:11 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:30:11 - INFO - 🧪 Creating test news card...
+2025-09-17 19:30:11 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 19:30:11 - INFO - Fetching image from: https://test.com
+2025-09-17 19:30:32 - WARNING - No suitable image found after exhaustive checks
+2025-09-17 19:30:32 - INFO - ✅ News card created successfully! Size: 357004 bytes
+2025-09-17 19:30:34 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 19:30:34 - INFO - 🔄 Starting news check cycle...
+2025-09-17 19:30:34 - INFO - 🔍 Checking for latest news...
+2025-09-17 19:30:39 - INFO - 📰 Found 12 articles
+2025-09-17 19:30:39 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 19:30:39 - INFO - 🆕 New article: CA reaffirms to hold elections in February...
+2025-09-17 19:30:39 - INFO - Creating news card for: CA reaffirms to hold elections in February...
+2025-09-17 19:30:39 - INFO - Fetching image from: https://www.bangladeshguardian.com/national/28468
+2025-09-17 19:30:41 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/ca-chief-adviser-dr-yunus-bg-bangladesh-guardian-1758115628.jpg
+2025-09-17 19:30:41 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 19:30:42 - INFO - ✅ News card created successfully! Size: 764056 bytes
+2025-09-17 19:30:46 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 19:30:46 - INFO - ✅ Article posted successfully
+2025-09-17 19:30:46 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:30:46 - INFO - Saved 7 posted links
+2025-09-17 19:30:47 - INFO - Shutting down bot...
+2025-09-17 19:30:47 - INFO - Saved 7 posted links
+2025-09-17 19:31:58 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 19:31:58 - INFO - Loaded 7 previously posted links
+2025-09-17 19:31:59 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:31:59 - INFO - 🧪 Creating test news card...
+2025-09-17 19:31:59 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 19:31:59 - INFO - Fetching image from: https://test.com
+2025-09-17 19:32:02 - WARNING - No suitable image found after exhaustive checks
+2025-09-17 19:32:03 - INFO - ✅ News card created successfully! Size: 356013 bytes
+2025-09-17 19:32:05 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 19:32:05 - INFO - 🔄 Starting news check cycle...
+2025-09-17 19:32:05 - INFO - 🔍 Checking for latest news...
+2025-09-17 19:32:10 - INFO - 📰 Found 12 articles
+2025-09-17 19:32:10 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 19:32:10 - INFO - 🆕 New article: Ex-MP Fazle Karim's PS Irfan arrested...
+2025-09-17 19:32:10 - INFO - Creating news card for: Ex-MP Fazle Karim's PS Irfan arrested...
+2025-09-17 19:32:10 - INFO - Fetching image from: https://www.bangladeshguardian.com/country/28461
+2025-09-17 19:32:12 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/irfan-bg-1758112387.jpg
+2025-09-17 19:32:12 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 19:32:13 - INFO - ✅ News card created successfully! Size: 1015391 bytes
+2025-09-17 19:32:15 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 19:32:15 - INFO - ✅ Article posted successfully
+2025-09-17 19:32:16 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:32:16 - INFO - Saved 8 posted links
+2025-09-17 19:32:18 - INFO - Shutting down bot...
+2025-09-17 19:32:18 - INFO - Saved 8 posted links
+2025-09-17 19:34:59 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 19:34:59 - INFO - Loaded 8 previously posted links
+2025-09-17 19:35:00 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:35:00 - INFO - 🔄 Starting news check cycle...
+2025-09-17 19:35:00 - INFO - 🔍 Checking for latest news...
+2025-09-17 19:35:05 - INFO - 📰 Found 12 articles
+2025-09-17 19:35:05 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 19:35:05 - INFO - 🆕 New article: Tk363Cr loan scam: ACC accuses S Alam, Nabil Group MD among ...
+2025-09-17 19:35:05 - INFO - Creating news card for: Tk363Cr loan scam: ACC accuses S Alam, Nabil Group...
+2025-09-17 19:35:05 - INFO - Fetching image from: https://www.bangladeshguardian.com/national/28460
+2025-09-17 19:35:07 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/s-alam-nabil-bg-1758111960.jpg
+2025-09-17 19:35:07 - ERROR - Error processing article image: 'float' object cannot be interpreted as an integer
+2025-09-17 19:35:08 - INFO - ✅ News card created successfully! Size: 358260 bytes
+2025-09-17 19:35:10 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 19:35:10 - INFO - ✅ Article posted successfully
+2025-09-17 19:35:11 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:35:11 - INFO - Saved 9 posted links
+2025-09-17 19:35:13 - INFO - Shutting down bot...
+2025-09-17 19:35:13 - INFO - Saved 9 posted links
+2025-09-17 19:35:23 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 19:35:23 - INFO - Loaded 9 previously posted links
+2025-09-17 19:35:24 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:35:24 - INFO - 🔄 Starting news check cycle...
+2025-09-17 19:35:24 - INFO - 🔍 Checking for latest news...
+2025-09-17 19:35:28 - INFO - 📰 Found 12 articles
+2025-09-17 19:35:28 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 19:35:28 - INFO - 🆕 New article: Train accidents in Bangladesh: Reasons and remedies...
+2025-09-17 19:35:28 - INFO - Creating news card for: Train accidents in Bangladesh: Reasons and remedie...
+2025-09-17 19:35:28 - INFO - Fetching image from: https://www.bangladeshguardian.com/special-report/28459
+2025-09-17 19:35:31 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/train-bg-bangladesh-guardian-1758110982.jpg
+2025-09-17 19:35:31 - ERROR - Error processing article image: 'float' object cannot be interpreted as an integer
+2025-09-17 19:35:31 - INFO - ✅ News card created successfully! Size: 354910 bytes
+2025-09-17 19:35:34 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 19:35:34 - INFO - ✅ Article posted successfully
+2025-09-17 19:35:34 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:35:34 - INFO - Saved 10 posted links
+2025-09-17 19:35:37 - INFO - 🆕 New article: Prova shares pain behind her smile...
+2025-09-17 19:35:37 - INFO - Creating news card for: Prova shares pain behind her smile...
+2025-09-17 19:35:37 - INFO - Fetching image from: https://www.bangladeshguardian.com/entertainment/28458
+2025-09-17 19:35:45 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/prova-1758110777.jpg
+2025-09-17 19:35:45 - ERROR - Error processing article image: 'float' object cannot be interpreted as an integer
+2025-09-17 19:35:45 - INFO - ✅ News card created successfully! Size: 356205 bytes
+2025-09-17 19:35:48 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 19:35:48 - INFO - ✅ Article posted successfully
+2025-09-17 19:35:49 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:35:49 - INFO - Saved 11 posted links
+2025-09-17 19:35:52 - INFO - 🆕 New article: Five banks to merge under new name; Depositors’ funds to rem...
+2025-09-17 19:35:52 - INFO - Creating news card for: Five banks to merge under new name; Depositors’ fu...
+2025-09-17 19:35:52 - INFO - Fetching image from: https://www.bangladeshguardian.com/special-report/28457
+2025-09-17 19:35:55 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/bb-bangladesh-bank-5-islami-bank-merger-bg-bangladesh-guardian-1758109853.jpg
+2025-09-17 19:35:55 - ERROR - Error processing article image: 'float' object cannot be interpreted as an integer
+2025-09-17 19:35:56 - INFO - ✅ News card created successfully! Size: 357152 bytes
+2025-09-17 19:35:57 - INFO - Shutting down bot...
+2025-09-17 19:35:57 - INFO - Saved 11 posted links
+2025-09-17 19:36:11 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 19:36:11 - INFO - Loaded 11 previously posted links
+2025-09-17 19:36:12 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:36:12 - INFO - 🔄 Starting news check cycle...
+2025-09-17 19:36:12 - INFO - 🔍 Checking for latest news...
+2025-09-17 19:36:12 - INFO - Shutting down bot...
+2025-09-17 19:36:12 - INFO - Saved 11 posted links
+2025-09-17 19:36:54 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 19:36:54 - INFO - Loaded 11 previously posted links
+2025-09-17 19:36:55 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:36:55 - INFO - 🧪 Creating test news card...
+2025-09-17 19:36:55 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 19:36:55 - INFO - Fetching image from: https://test.com
+2025-09-17 19:37:19 - INFO - Using meta image: https://img.atom.com/story_images/visual_images/1706201190-Test_main.png?class=show
+2025-09-17 19:37:19 - ERROR - Error processing article image: 'float' object cannot be interpreted as an integer
+2025-09-17 19:37:19 - INFO - ✅ News card created successfully! Size: 358461 bytes
+2025-09-17 19:37:21 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 19:37:21 - INFO - 🔄 Starting news check cycle...
+2025-09-17 19:37:21 - INFO - 🔍 Checking for latest news...
+2025-09-17 19:37:25 - INFO - 📰 Found 12 articles
+2025-09-17 19:37:25 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 19:37:26 - INFO - 🆕 New article: Five banks to merge under new name; Depositors’ funds to rem...
+2025-09-17 19:37:26 - INFO - Creating news card for: Five banks to merge under new name; Depositors’ fu...
+2025-09-17 19:37:26 - INFO - Fetching image from: https://www.bangladeshguardian.com/special-report/28457
+2025-09-17 19:37:28 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/bb-bangladesh-bank-5-islami-bank-merger-bg-bangladesh-guardian-1758109853.jpg
+2025-09-17 19:37:28 - ERROR - Error processing article image: 'float' object cannot be interpreted as an integer
+2025-09-17 19:37:29 - INFO - ✅ News card created successfully! Size: 357152 bytes
+2025-09-17 19:37:31 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 19:37:31 - INFO - ✅ Article posted successfully
+2025-09-17 19:37:33 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:37:33 - INFO - Saved 12 posted links
+2025-09-17 19:37:36 - INFO - 🎉 Posted 1 new articles!
+2025-09-17 19:37:36 - INFO - ⏰ Waiting 300 seconds until next check...
+2025-09-17 19:37:57 - INFO - Shutting down bot...
+2025-09-17 19:37:57 - INFO - Saved 12 posted links
+2025-09-17 19:39:29 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 19:39:29 - INFO - Loaded 12 previously posted links
+2025-09-17 19:39:30 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:39:30 - INFO - 🧪 Creating test news card...
+2025-09-17 19:39:30 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 19:39:30 - INFO - Fetching image from: https://test.com
+2025-09-17 19:39:46 - INFO - Using meta image: https://img.atom.com/story_images/visual_images/1706201190-Test_main.png?class=show
+2025-09-17 19:39:46 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 19:39:47 - INFO - ✅ News card created successfully! Size: 398465 bytes
+2025-09-17 19:39:49 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 19:39:49 - INFO - 🔄 Starting news check cycle...
+2025-09-17 19:39:49 - INFO - 🔍 Checking for latest news...
+2025-09-17 19:39:53 - INFO - 📰 Found 12 articles
+2025-09-17 19:39:53 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 19:39:53 - INFO - 🆕 New article: Afghanistan U19 to visit Bangladesh for bilateral series...
+2025-09-17 19:39:53 - INFO - Creating news card for: Afghanistan U19 to visit Bangladesh for bilateral ...
+2025-09-17 19:39:53 - INFO - Fetching image from: https://www.bangladeshguardian.com/sports/28469
+2025-09-17 19:39:55 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/simail-4-1758116296.jpg
+2025-09-17 19:39:55 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 19:39:56 - INFO - ✅ News card created successfully! Size: 1005132 bytes
+2025-09-17 19:39:58 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 19:39:58 - INFO - ✅ Article posted successfully
+2025-09-17 19:39:59 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:39:59 - INFO - Saved 13 posted links
+2025-09-17 19:40:02 - INFO - 🎉 Posted 1 new articles!
+2025-09-17 19:40:02 - INFO - ⏰ Waiting 300 seconds until next check...
+2025-09-17 19:40:16 - INFO - Shutting down bot...
+2025-09-17 19:40:16 - INFO - Saved 13 posted links
+2025-09-17 19:42:56 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 19:42:56 - INFO - Loaded 13 previously posted links
+2025-09-17 19:42:56 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:42:56 - INFO - 🧪 Creating test news card...
+2025-09-17 19:42:56 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 19:42:56 - INFO - Fetching image from: https://test.com
+2025-09-17 19:43:06 - WARNING - No suitable image found after exhaustive checks
+2025-09-17 19:43:07 - INFO - ✅ News card created successfully! Size: 358133 bytes
+2025-09-17 19:43:10 - ERROR - ❌ Error sending photo: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-09-17 19:43:10 - INFO - 🔄 Starting news check cycle...
+2025-09-17 19:43:10 - INFO - 🔍 Checking for latest news...
+2025-09-17 19:43:14 - INFO - 📰 Found 12 articles
+2025-09-17 19:43:14 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 19:43:14 - INFO - 🆕 New article: Chinese Universities football women's united team now in cit...
+2025-09-17 19:43:14 - INFO - Creating news card for: Chinese Universities football women's united team ...
+2025-09-17 19:43:14 - INFO - Fetching image from: https://www.bangladeshguardian.com/sports/28470
+2025-09-17 19:43:17 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/simmbnail-4-1758116421.jpg
+2025-09-17 19:43:17 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 19:43:17 - INFO - ✅ News card created successfully! Size: 1154102 bytes
+2025-09-17 19:43:22 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 19:43:22 - INFO - ✅ Article posted successfully
+2025-09-17 19:43:23 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:43:23 - INFO - Saved 14 posted links
+2025-09-17 19:43:26 - INFO - Shutting down bot...
+2025-09-17 19:43:26 - INFO - Saved 14 posted links
+2025-09-17 19:44:02 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 19:44:02 - INFO - Loaded 14 previously posted links
+2025-09-17 19:44:03 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:44:03 - INFO - 🧪 Creating test news card...
+2025-09-17 19:44:03 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 19:44:03 - INFO - Fetching image from: https://test.com
+2025-09-17 19:44:20 - WARNING - No suitable image found after exhaustive checks
+2025-09-17 19:44:20 - INFO - ✅ News card created successfully! Size: 357701 bytes
+2025-09-17 19:44:24 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 19:44:24 - INFO - 🔄 Starting news check cycle...
+2025-09-17 19:44:24 - INFO - 🔍 Checking for latest news...
+2025-09-17 19:44:28 - INFO - 📰 Found 12 articles
+2025-09-17 19:44:28 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 19:44:28 - INFO - 📰 No new articles to post
+2025-09-17 19:44:28 - INFO - ⏰ Waiting 300 seconds until next check...
+2025-09-17 19:45:12 - INFO - Shutting down bot...
+2025-09-17 19:45:12 - INFO - Saved 14 posted links
+2025-09-17 19:45:17 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 19:45:17 - INFO - Loaded 14 previously posted links
+2025-09-17 19:45:18 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:45:18 - INFO - 🧪 Creating test news card...
+2025-09-17 19:45:18 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 19:45:18 - INFO - Fetching image from: https://test.com
+2025-09-17 19:45:28 - WARNING - No suitable image found after exhaustive checks
+2025-09-17 19:45:29 - INFO - ✅ News card created successfully! Size: 357701 bytes
+2025-09-17 19:45:31 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 19:45:31 - INFO - 🔄 Starting news check cycle...
+2025-09-17 19:45:31 - INFO - 🔍 Checking for latest news...
+2025-09-17 19:45:35 - INFO - 📰 Found 12 articles
+2025-09-17 19:45:35 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 19:45:35 - INFO - 🆕 New article: From romance to rebellion, Anit’s next move...
+2025-09-17 19:45:35 - INFO - Creating news card for: From romance to rebellion, Anit’s next move...
+2025-09-17 19:45:35 - INFO - Fetching image from: https://www.bangladeshguardian.com/entertainment/28471
+2025-09-17 19:45:38 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/aneet-padda-1758116706.jpg
+2025-09-17 19:45:38 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 19:45:39 - INFO - ✅ News card created successfully! Size: 895810 bytes
+2025-09-17 19:45:44 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 19:45:44 - INFO - ✅ Article posted successfully
+2025-09-17 19:45:45 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:45:45 - INFO - Saved 15 posted links
+2025-09-17 19:45:48 - INFO - 🎉 Posted 1 new articles!
+2025-09-17 19:45:48 - INFO - ⏰ Waiting 300 seconds until next check...
+2025-09-17 19:45:49 - INFO - Shutting down bot...
+2025-09-17 19:45:49 - INFO - Saved 15 posted links
+2025-09-17 19:52:50 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 19:52:50 - INFO - Loaded 15 previously posted links
+2025-09-17 19:52:52 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:52:52 - INFO - 🧪 Creating test news card...
+2025-09-17 19:52:52 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 19:52:52 - INFO - Fetching image from: https://test.com
+2025-09-17 19:53:18 - WARNING - No suitable image found after exhaustive checks
+2025-09-17 19:53:19 - INFO - ✅ News card created successfully! Size: 362226 bytes
+2025-09-17 19:53:22 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 19:53:22 - INFO - 🔄 Starting news check cycle...
+2025-09-17 19:53:22 - INFO - 🔍 Checking for latest news...
+2025-09-17 19:53:26 - INFO - 📰 Found 12 articles
+2025-09-17 19:53:26 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 19:53:26 - INFO - 📰 No new articles to post
+2025-09-17 19:53:26 - INFO - ⏰ Waiting 300 seconds until next check...
+2025-09-17 19:54:56 - INFO - Shutting down bot...
+2025-09-17 19:54:56 - INFO - Saved 15 posted links
+2025-09-17 19:55:02 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 19:55:02 - INFO - No previous links found or invalid JSON, starting fresh: [Errno 2] No such file or directory: 'posted_links.json'
+2025-09-17 19:55:03 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:55:03 - INFO - 🧪 Creating test news card...
+2025-09-17 19:55:03 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 19:55:03 - INFO - Fetching image from: https://test.com
+2025-09-17 19:55:07 - WARNING - No suitable image found after exhaustive checks
+2025-09-17 19:55:08 - INFO - ✅ News card created successfully! Size: 362226 bytes
+2025-09-17 19:55:09 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 19:55:09 - INFO - 🔄 Starting news check cycle...
+2025-09-17 19:55:09 - INFO - 🔍 Checking for latest news...
+2025-09-17 19:55:14 - INFO - 📰 Found 12 articles
+2025-09-17 19:55:14 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 19:55:14 - INFO - 🆕 New article: From romance to rebellion, Anit’s next move...
+2025-09-17 19:55:14 - INFO - Creating news card for: From romance to rebellion, Anit’s next move...
+2025-09-17 19:55:14 - INFO - Fetching image from: https://www.bangladeshguardian.com/entertainment/28471
+2025-09-17 19:55:16 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/aneet-padda-1758116706.jpg
+2025-09-17 19:55:16 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 19:55:17 - INFO - ✅ News card created successfully! Size: 895235 bytes
+2025-09-17 19:55:20 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 19:55:20 - INFO - ✅ Article posted successfully
+2025-09-17 19:55:21 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:55:21 - INFO - Saved 1 posted links
+2025-09-17 19:55:24 - INFO - 🆕 New article: Chinese Universities football women's united team now in cit...
+2025-09-17 19:55:24 - INFO - Creating news card for: Chinese Universities football women's united team ...
+2025-09-17 19:55:24 - INFO - Fetching image from: https://www.bangladeshguardian.com/sports/28470
+2025-09-17 19:55:27 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/simmbnail-4-1758116421.jpg
+2025-09-17 19:55:27 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 19:55:27 - INFO - ✅ News card created successfully! Size: 1150624 bytes
+2025-09-17 19:55:30 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 19:55:30 - INFO - ✅ Article posted successfully
+2025-09-17 19:55:31 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:55:31 - INFO - Saved 2 posted links
+2025-09-17 19:55:34 - INFO - 🆕 New article: Afghanistan U19 to visit Bangladesh for bilateral series...
+2025-09-17 19:55:34 - INFO - Creating news card for: Afghanistan U19 to visit Bangladesh for bilateral ...
+2025-09-17 19:55:34 - INFO - Fetching image from: https://www.bangladeshguardian.com/sports/28469
+2025-09-17 19:55:36 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/simail-4-1758116296.jpg
+2025-09-17 19:55:37 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 19:55:37 - INFO - ✅ News card created successfully! Size: 1001568 bytes
+2025-09-17 19:55:40 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 19:55:40 - INFO - ✅ Article posted successfully
+2025-09-17 19:55:40 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:55:40 - INFO - Saved 3 posted links
+2025-09-17 19:55:43 - INFO - 🆕 New article: CA reaffirms to hold elections in February...
+2025-09-17 19:55:43 - INFO - Creating news card for: CA reaffirms to hold elections in February...
+2025-09-17 19:55:43 - INFO - Fetching image from: https://www.bangladeshguardian.com/national/28468
+2025-09-17 19:55:46 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/ca-chief-adviser-dr-yunus-bg-bangladesh-guardian-1758115628.jpg
+2025-09-17 19:55:46 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 19:55:47 - INFO - ✅ News card created successfully! Size: 763438 bytes
+2025-09-17 19:55:49 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 19:55:49 - INFO - ✅ Article posted successfully
+2025-09-17 19:55:50 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:55:50 - INFO - Saved 4 posted links
+2025-09-17 19:55:53 - INFO - 🆕 New article: CA Yunus to visit US on Sept 22...
+2025-09-17 19:55:53 - INFO - Creating news card for: CA Yunus to visit US on Sept 22...
+2025-09-17 19:55:53 - INFO - Fetching image from: https://www.bangladeshguardian.com/national/28467
+2025-09-17 19:55:55 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/ca-yunus-bg-1758115450.jpg
+2025-09-17 19:55:55 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 19:55:56 - INFO - Shutting down bot...
+2025-09-17 19:55:56 - INFO - Saved 4 posted links
+2025-09-17 19:59:51 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 19:59:51 - INFO - Loaded 4 previously posted links
+2025-09-17 19:59:51 - INFO - ✅ Message sent to 7643719042
+2025-09-17 19:59:51 - INFO - 🧪 Creating test news card...
+2025-09-17 19:59:51 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 19:59:52 - INFO - Fetching image from: https://test.com
+2025-09-17 20:00:15 - INFO - Using meta image: https://img.atom.com/story_images/visual_images/1706201190-Test_main.png?class=show
+2025-09-17 20:00:16 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 20:00:16 - INFO - ✅ News card created successfully! Size: 402070 bytes
+2025-09-17 20:00:18 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 20:00:18 - INFO - 🔄 Starting news check cycle...
+2025-09-17 20:00:18 - INFO - 🔍 Checking for latest news...
+2025-09-17 20:00:23 - INFO - 📰 Found 12 articles
+2025-09-17 20:00:23 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 20:00:23 - INFO - 🆕 New article: CA Yunus to visit US on Sept 22...
+2025-09-17 20:00:23 - INFO - Creating news card for: CA Yunus to visit US on Sept 22...
+2025-09-17 20:00:23 - INFO - Fetching image from: https://www.bangladeshguardian.com/national/28467
+2025-09-17 20:00:25 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/ca-yunus-bg-1758115450.jpg
+2025-09-17 20:00:25 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 20:00:26 - INFO - ✅ News card created successfully! Size: 987036 bytes
+2025-09-17 20:00:29 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 20:00:29 - INFO - ✅ Article posted successfully
+2025-09-17 20:00:29 - INFO - ✅ Message sent to 7643719042
+2025-09-17 20:00:29 - INFO - Saved 5 posted links
+2025-09-17 20:00:30 - INFO - Shutting down bot...
+2025-09-17 20:00:30 - INFO - Saved 5 posted links
+2025-09-17 20:03:44 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 20:03:44 - INFO - Loaded 5 previously posted links
+2025-09-17 20:03:45 - INFO - ✅ Message sent to 7643719042
+2025-09-17 20:03:45 - INFO - 🧪 Creating test news card...
+2025-09-17 20:03:45 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 20:03:45 - INFO - Fetching image from: https://test.com
+2025-09-17 20:04:01 - INFO - Using meta image: https://img.atom.com/story_images/visual_images/1706201190-Test_main.png?class=show
+2025-09-17 20:04:01 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 20:04:01 - INFO - ✅ News card created successfully! Size: 418180 bytes
+2025-09-17 20:04:04 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 20:04:04 - INFO - 🔄 Starting news check cycle...
+2025-09-17 20:04:04 - INFO - 🔍 Checking for latest news...
+2025-09-17 20:04:08 - INFO - 📰 Found 12 articles
+2025-09-17 20:04:08 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 20:04:08 - INFO - 🆕 New article: Orientation for freshers-reception for meritorious students ...
+2025-09-17 20:04:08 - INFO - Creating news card for: Orientation for freshers-reception for meritorious...
+2025-09-17 20:04:08 - INFO - Fetching image from: https://www.bangladeshguardian.com/education/28466
+2025-09-17 20:04:10 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/orientation-for-freshers-and-reception-for-meritorious-students-held-at-civil-aviation-school-and-college-bg-bangladesh-guardian-1758115147.jpg
+2025-09-17 20:04:11 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 20:04:11 - INFO - ✅ News card created successfully! Size: 1273702 bytes
+2025-09-17 20:04:14 - INFO - Shutting down bot...
+2025-09-17 20:04:14 - INFO - Saved 5 posted links
+2025-09-17 20:08:15 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 20:08:15 - INFO - Loaded 5 previously posted links
+2025-09-17 20:08:16 - INFO - ✅ Message sent to 7643719042
+2025-09-17 20:08:16 - INFO - 🧪 Creating test news card...
+2025-09-17 20:08:16 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 20:08:16 - INFO - Fetching image from: https://test.com
+2025-09-17 20:08:31 - WARNING - No suitable image found after exhaustive checks
+2025-09-17 20:08:31 - INFO - ✅ News card created successfully! Size: 392381 bytes
+2025-09-17 20:08:34 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 20:08:34 - INFO - 🔄 Starting news check cycle...
+2025-09-17 20:08:34 - INFO - 🔍 Checking for latest news...
+2025-09-17 20:08:38 - INFO - 📰 Found 12 articles
+2025-09-17 20:08:38 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 20:08:38 - INFO - 🆕 New article: Orientation for freshers-reception for meritorious students ...
+2025-09-17 20:08:38 - INFO - Creating news card for: Orientation for freshers-reception for meritorious...
+2025-09-17 20:08:38 - INFO - Fetching image from: https://www.bangladeshguardian.com/education/28466
+2025-09-17 20:08:41 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/orientation-for-freshers-and-reception-for-meritorious-students-held-at-civil-aviation-school-and-college-bg-bangladesh-guardian-1758115147.jpg
+2025-09-17 20:08:41 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 20:08:42 - INFO - ✅ News card created successfully! Size: 1301902 bytes
+2025-09-17 20:08:44 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 20:08:44 - INFO - ✅ Article posted successfully
+2025-09-17 20:08:45 - INFO - ✅ Message sent to 7643719042
+2025-09-17 20:08:45 - INFO - Saved 6 posted links
+2025-09-17 20:08:48 - INFO - 🆕 New article: Sheikh Hasina, family barred from voting: EC...
+2025-09-17 20:08:48 - INFO - Creating news card for: Sheikh Hasina, family barred from voting: EC...
+2025-09-17 20:08:48 - INFO - Fetching image from: https://www.bangladeshguardian.com/national/28465
+2025-09-17 20:08:52 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/ec-building2-bg-1758114860.jpg
+2025-09-17 20:08:52 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 20:08:52 - INFO - ✅ News card created successfully! Size: 1086536 bytes
+2025-09-17 20:08:54 - INFO - Shutting down bot...
+2025-09-17 20:08:54 - INFO - Saved 6 posted links
+2025-09-17 20:19:14 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 20:19:14 - INFO - Loaded 6 previously posted links
+2025-09-17 20:19:15 - INFO - ✅ Message sent to 7643719042
+2025-09-17 20:19:15 - INFO - 🧪 Creating test news card...
+2025-09-17 20:19:15 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 20:19:15 - INFO - Fetching image from: https://test.com
+2025-09-17 20:20:47 - WARNING - No suitable image found after exhaustive checks
+2025-09-17 20:20:48 - INFO - ✅ News card created successfully! Size: 385235 bytes
+2025-09-17 20:20:51 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 20:20:51 - INFO - 🔄 Starting news check cycle...
+2025-09-17 20:20:51 - INFO - 🔍 Checking for latest news...
+2025-09-17 20:20:59 - INFO - 📰 Found 12 articles
+2025-09-17 20:20:59 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 20:20:59 - INFO - 🆕 New article: Old, different incident’s video falsely claims JUCSU electio...
+2025-09-17 20:20:59 - INFO - Creating news card for: Old, different incident’s video falsely claims JUC...
+2025-09-17 20:20:59 - INFO - Fetching image from: https://www.bangladeshguardian.com/fact-check/28472
+2025-09-17 20:21:02 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/jucsu-vote-fraud-old-video-different-incident-factcheck-rumor-scanner-bg-bangladesh-guardian-1758118264.jpg
+2025-09-17 20:21:02 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 20:21:03 - INFO - ✅ News card created successfully! Size: 844319 bytes
+2025-09-17 20:21:06 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 20:21:06 - INFO - ✅ Article posted successfully
+2025-09-17 20:21:07 - INFO - ✅ Message sent to 7643719042
+2025-09-17 20:21:07 - INFO - Saved 7 posted links
+2025-09-17 20:21:10 - INFO - 🆕 New article: Sheikh Hasina, family barred from voting: EC...
+2025-09-17 20:21:10 - INFO - Creating news card for: Sheikh Hasina, family barred from voting: EC...
+2025-09-17 20:21:10 - INFO - Fetching image from: https://www.bangladeshguardian.com/national/28465
+2025-09-17 20:21:13 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/ec-building2-bg-1758114860.jpg
+2025-09-17 20:21:13 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 20:21:14 - INFO - ✅ News card created successfully! Size: 1092025 bytes
+2025-09-17 20:21:15 - INFO - Shutting down bot...
+2025-09-17 20:21:15 - INFO - Saved 7 posted links
+2025-09-17 20:22:34 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 20:22:34 - INFO - Loaded 7 previously posted links
+2025-09-17 20:22:35 - INFO - ✅ Message sent to 7643719042
+2025-09-17 20:22:35 - INFO - 🧪 Creating test news card...
+2025-09-17 20:22:35 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 20:22:35 - INFO - Fetching image from: https://test.com
+2025-09-17 20:23:07 - WARNING - No suitable image found after exhaustive checks
+2025-09-17 20:23:07 - INFO - ✅ News card created successfully! Size: 385491 bytes
+2025-09-17 20:23:10 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 20:23:10 - INFO - 🔄 Starting news check cycle...
+2025-09-17 20:23:10 - INFO - 🔍 Checking for latest news...
+2025-09-17 20:23:14 - INFO - 📰 Found 12 articles
+2025-09-17 20:23:14 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 20:23:14 - INFO - 🆕 New article: Sheikh Hasina, family barred from voting: EC...
+2025-09-17 20:23:14 - INFO - Creating news card for: Sheikh Hasina, family barred from voting: EC...
+2025-09-17 20:23:14 - INFO - Fetching image from: https://www.bangladeshguardian.com/national/28465
+2025-09-17 20:23:16 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/ec-building2-bg-1758114860.jpg
+2025-09-17 20:23:16 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 20:23:16 - INFO - ✅ News card created successfully! Size: 1092341 bytes
+2025-09-17 20:23:20 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 20:23:20 - INFO - ✅ Article posted successfully
+2025-09-17 20:23:22 - INFO - ✅ Message sent to 7643719042
+2025-09-17 20:23:22 - INFO - Saved 8 posted links
+2025-09-17 20:23:25 - INFO - 🆕 New article: Dengue claims 5 lives in a day, 622 hospitalised...
+2025-09-17 20:23:25 - INFO - Creating news card for: Dengue claims 5 lives in a day, 622 hospitalised...
+2025-09-17 20:23:25 - INFO - Fetching image from: https://www.bangladeshguardian.com/health-lifestyle/28464
+2025-09-17 20:23:28 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/dengue-dghs-bg-bangladesh-guardian-1758114393.jpg
+2025-09-17 20:23:28 - ERROR - Error processing article image: 'float' object cannot be interpreted as an integer
+2025-09-17 20:23:28 - ERROR - ❌ Error creating news card: cannot access local variable 'target_w' where it is not associated with a value
+2025-09-17 20:23:28 - ERROR - Failed to create image for: Dengue claims 5 lives in a day, 622 hospitalised...
+2025-09-17 20:23:28 - INFO - 🆕 New article: Govt raises Durga Puja grant to Tk5cr...
+2025-09-17 20:23:28 - INFO - Creating news card for: Govt raises Durga Puja grant to Tk5cr...
+2025-09-17 20:23:28 - INFO - Fetching image from: https://www.bangladeshguardian.com/national/28463
+2025-09-17 20:23:30 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/moha-bg-1758114266.jpg
+2025-09-17 20:23:31 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 20:23:31 - INFO - ✅ News card created successfully! Size: 721221 bytes
+2025-09-17 20:23:33 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 20:23:33 - INFO - ✅ Article posted successfully
+2025-09-17 20:23:34 - INFO - ✅ Message sent to 7643719042
+2025-09-17 20:23:34 - INFO - Saved 9 posted links
+2025-09-17 20:23:34 - INFO - Shutting down bot...
+2025-09-17 20:23:34 - INFO - Saved 9 posted links
+2025-09-17 20:26:15 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 20:26:15 - INFO - Loaded 9 previously posted links
+2025-09-17 20:26:16 - INFO - ✅ Message sent to 7643719042
+2025-09-17 20:26:16 - INFO - 🧪 Creating test news card...
+2025-09-17 20:26:16 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 20:26:16 - INFO - Fetching image from: https://test.com
+2025-09-17 20:26:27 - WARNING - No suitable image found after exhaustive checks
+2025-09-17 20:26:27 - INFO - ✅ News card created successfully! Size: 350276 bytes
+2025-09-17 20:26:30 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 20:26:30 - INFO - 🔄 Starting news check cycle...
+2025-09-17 20:26:30 - INFO - 🔍 Checking for latest news...
+2025-09-17 20:26:33 - INFO - 📰 Found 12 articles
+2025-09-17 20:26:33 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 20:26:33 - INFO - 🆕 New article: Dengue claims 5 lives in a day, 622 hospitalised...
+2025-09-17 20:26:33 - INFO - Creating news card for: Dengue claims 5 lives in a day, 622 hospitalised...
+2025-09-17 20:26:33 - INFO - Fetching image from: https://www.bangladeshguardian.com/health-lifestyle/28464
+2025-09-17 20:26:35 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/dengue-dghs-bg-bangladesh-guardian-1758114393.jpg
+2025-09-17 20:26:35 - ERROR - Error processing article image: 'float' object cannot be interpreted as an integer
+2025-09-17 20:26:35 - ERROR - ❌ Error creating news card: cannot access local variable 'target_w' where it is not associated with a value
+2025-09-17 20:26:35 - ERROR - Failed to create image for: Dengue claims 5 lives in a day, 622 hospitalised...
+2025-09-17 20:26:35 - INFO - 🆕 New article: Indian video propagates claim scene of Hasnat Abdullah and T...
+2025-09-17 20:26:35 - INFO - Creating news card for: Indian video propagates claim scene of Hasnat Abdu...
+2025-09-17 20:26:35 - INFO - Fetching image from: https://www.bangladeshguardian.com/fact-check/28462
+2025-09-17 20:26:38 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/hasnat-abdullah-tasnim-jara-ncp-factcheck-rumor-scanner-bg-bangladesh-guardian-1758113703.jpg
+2025-09-17 20:26:38 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 20:26:39 - INFO - ✅ News card created successfully! Size: 972966 bytes
+2025-09-17 20:26:41 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 20:26:41 - INFO - ✅ Article posted successfully
+2025-09-17 20:26:43 - INFO - ✅ Message sent to 7643719042
+2025-09-17 20:26:43 - INFO - Saved 10 posted links
+2025-09-17 20:26:46 - INFO - 🆕 New article: Ex-MP Fazle Karim's PS Irfan arrested...
+2025-09-17 20:26:46 - INFO - Creating news card for: Ex-MP Fazle Karim's PS Irfan arrested...
+2025-09-17 20:26:46 - INFO - Fetching image from: https://www.bangladeshguardian.com/country/28461
+2025-09-17 20:26:48 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/irfan-bg-1758112387.jpg
+2025-09-17 20:26:48 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 20:26:49 - INFO - ✅ News card created successfully! Size: 995525 bytes
+2025-09-17 20:26:49 - INFO - Shutting down bot...
+2025-09-17 20:26:49 - INFO - Saved 10 posted links
+2025-09-17 20:30:29 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 20:30:29 - INFO - Loaded 10 previously posted links
+2025-09-17 20:30:30 - INFO - ✅ Message sent to 7643719042
+2025-09-17 20:30:30 - INFO - 🧪 Creating test news card...
+2025-09-17 20:30:30 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 20:30:30 - INFO - Fetching image from: https://test.com
+2025-09-17 20:30:34 - INFO - Shutting down bot...
+2025-09-17 20:30:34 - INFO - Saved 10 posted links
+2025-09-17 20:30:34 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8e45615450>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5faba7b2d81508bc0516ecb2c2976470
+2025-09-17 20:30:34 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8e45615e50>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5faba7b2d81508bc0516ecb2c2976470
+2025-09-17 20:30:34 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8e4560da70>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/5faba7b2d81508bc0516ecb2c2976470
+2025-09-17 21:06:34 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 21:06:34 - INFO - Loaded 10 previously posted links
+2025-09-17 21:06:35 - INFO - ✅ Message sent to 7643719042
+2025-09-17 21:06:35 - INFO - 🧪 Creating test news card...
+2025-09-17 21:06:35 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 21:06:35 - INFO - Fetching image from: https://test.com
+2025-09-17 21:06:53 - WARNING - No suitable image found after exhaustive checks
+2025-09-17 21:06:53 - INFO - ✅ News card created successfully! Size: 381736 bytes
+2025-09-17 21:06:57 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 21:06:57 - INFO - 🔄 Starting news check cycle...
+2025-09-17 21:06:57 - INFO - 🔍 Checking for latest news...
+2025-09-17 21:07:01 - INFO - 📰 Found 12 articles
+2025-09-17 21:07:01 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 21:07:01 - INFO - 🆕 New article: Old video propagates BCL leader commits suicide as recent...
+2025-09-17 21:07:01 - INFO - Creating news card for: Old video propagates BCL leader commits suicide as...
+2025-09-17 21:07:01 - INFO - Fetching image from: https://www.bangladeshguardian.com/fact-check/28474
+2025-09-17 21:07:03 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/bcl-chhatra-league-leader-commit-suicide-old-video-false-info-fake-factcheck-rumor-scanner-bg-bangladesh-guardian-1758121460.jpg
+2025-09-17 21:07:03 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 21:07:04 - INFO - ✅ News card created successfully! Size: 976630 bytes
+2025-09-17 21:07:08 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 21:07:08 - INFO - ✅ Article posted successfully
+2025-09-17 21:07:09 - INFO - ✅ Message sent to 7643719042
+2025-09-17 21:07:09 - INFO - Saved 11 posted links
+2025-09-17 21:07:12 - INFO - 🆕 New article: ACC sues ex-Railway DG Touhidul among 7...
+2025-09-17 21:07:12 - INFO - Creating news card for: ACC sues ex-Railway DG Touhidul among 7...
+2025-09-17 21:07:12 - INFO - Fetching image from: https://www.bangladeshguardian.com/national/28473
+2025-09-17 21:07:15 - INFO - Shutting down bot...
+2025-09-17 21:07:15 - INFO - Saved 11 posted links
+2025-09-17 21:07:15 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0a8f41ed70>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/286a0c7391e5ee04790cdb6cbb2c0ad6
+2025-09-17 21:07:15 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0a8f2628d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/286a0c7391e5ee04790cdb6cbb2c0ad6
+2025-09-17 21:07:15 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0a8f425f20>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/286a0c7391e5ee04790cdb6cbb2c0ad6
+2025-09-17 21:13:37 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 21:13:37 - INFO - Loaded 11 previously posted links
+2025-09-17 21:25:04 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 21:25:04 - INFO - Loaded 11 previously posted links
+2025-09-17 21:25:05 - INFO - ✅ Message sent to 7643719042
+2025-09-17 21:25:05 - INFO - 🧪 Creating test news card...
+2025-09-17 21:25:05 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 21:25:05 - INFO - Fetching image from: https://test.com
+2025-09-17 21:26:28 - INFO - Using meta image: https://img.atom.com/story_images/visual_images/1706201190-Test_main.png?class=show
+2025-09-17 21:26:28 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 21:26:28 - INFO - ✅ News card created successfully! Size: 420785 bytes
+2025-09-17 21:26:34 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 21:26:34 - INFO - 🔄 Starting news check cycle...
+2025-09-17 21:26:34 - INFO - 🔍 Checking for latest news...
+2025-09-17 21:26:37 - INFO - 📰 Found 12 articles
+2025-09-17 21:26:37 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 21:26:37 - INFO - 🆕 New article: Gold prices dropped after hiking 9 times...
+2025-09-17 21:26:37 - INFO - Creating news card for: Gold prices dropped after hiking 9 times...
+2025-09-17 21:26:37 - INFO - Fetching image from: https://www.bangladeshguardian.com/economy/28478
+2025-09-17 21:26:41 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/gold-price-bg-bangladesh-guardian-2-1758122789.png
+2025-09-17 21:26:41 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 21:26:41 - INFO - ✅ News card created successfully! Size: 1216920 bytes
+2025-09-17 21:26:45 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 21:26:45 - INFO - ✅ Article posted successfully
+2025-09-17 21:26:46 - INFO - ✅ Message sent to 7643719042
+2025-09-17 21:26:46 - INFO - Saved 12 posted links
+2025-09-17 21:26:49 - INFO - 🆕 New article: Forex reserves stand at $31b...
+2025-09-17 21:26:49 - INFO - Creating news card for: Forex reserves stand at $31b...
+2025-09-17 21:26:49 - INFO - Fetching image from: https://www.bangladeshguardian.com/economy/28477
+2025-09-17 21:26:52 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/dollars-bg-1758122240.jpg
+2025-09-17 21:26:52 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 21:26:52 - INFO - ✅ News card created successfully! Size: 1503024 bytes
+2025-09-17 21:26:55 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 21:26:55 - INFO - ✅ Article posted successfully
+2025-09-17 21:26:56 - INFO - ✅ Message sent to 7643719042
+2025-09-17 21:26:56 - INFO - Saved 13 posted links
+2025-09-17 21:26:59 - INFO - 🆕 New article: Durga Puja will be celebrated safely: IGP...
+2025-09-17 21:26:59 - INFO - Creating news card for: Durga Puja will be celebrated safely: IGP...
+2025-09-17 21:26:59 - INFO - Fetching image from: https://www.bangladeshguardian.com/national/28476
+2025-09-17 21:27:02 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/igp-police-baharul-alam-bg-bangladesh-guardian-1758122227.jpg
+2025-09-17 21:27:02 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 21:27:03 - INFO - ✅ News card created successfully! Size: 884236 bytes
+2025-09-17 21:27:05 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 21:27:05 - INFO - ✅ Article posted successfully
+2025-09-17 21:27:08 - INFO - ✅ Message sent to 7643719042
+2025-09-17 21:27:08 - INFO - Saved 14 posted links
+2025-09-17 21:27:11 - INFO - 🆕 New article: 3 proposals to resolve conflict over designations for engine...
+2025-09-17 21:27:11 - INFO - Creating news card for: 3 proposals to resolve conflict over designations ...
+2025-09-17 21:27:11 - INFO - Fetching image from: https://www.bangladeshguardian.com/national/28475
+2025-09-17 21:27:13 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/fouzul-bg-1758121868.jpg
+2025-09-17 21:27:13 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 21:27:14 - INFO - ✅ News card created successfully! Size: 926039 bytes
+2025-09-17 21:27:16 - INFO - Shutting down bot...
+2025-09-17 21:27:16 - INFO - Saved 14 posted links
+2025-09-17 21:30:58 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 21:30:58 - INFO - Loaded 14 previously posted links
+2025-09-17 21:30:59 - INFO - ✅ Message sent to 7643719042
+2025-09-17 21:30:59 - INFO - 🧪 Creating test news card...
+2025-09-17 21:30:59 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 21:30:59 - INFO - Fetching image from: https://test.com
+2025-09-17 21:31:02 - WARNING - No suitable image found after exhaustive checks
+2025-09-17 21:31:03 - INFO - ✅ News card created successfully! Size: 381307 bytes
+2025-09-17 21:31:07 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 21:31:07 - INFO - 🔄 Starting news check cycle...
+2025-09-17 21:31:07 - INFO - 🔍 Checking for latest news...
+2025-09-17 21:31:11 - INFO - 📰 Found 12 articles
+2025-09-17 21:31:11 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 21:31:11 - INFO - 🆕 New article: 3 proposals to resolve conflict over designations for engine...
+2025-09-17 21:31:11 - INFO - Creating news card for: 3 proposals to resolve conflict over designations ...
+2025-09-17 21:31:11 - INFO - Fetching image from: https://www.bangladeshguardian.com/national/28475
+2025-09-17 21:31:14 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/fouzul-bg-1758121868.jpg
+2025-09-17 21:31:14 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 21:31:14 - INFO - ✅ News card created successfully! Size: 926011 bytes
+2025-09-17 21:31:17 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 21:31:17 - INFO - ✅ Article posted successfully
+2025-09-17 21:31:17 - INFO - ✅ Message sent to 7643719042
+2025-09-17 21:31:17 - INFO - Saved 15 posted links
+2025-09-17 21:31:20 - INFO - 🆕 New article: ACC sues ex-Railway DG Touhidul among 7...
+2025-09-17 21:31:20 - INFO - Creating news card for: ACC sues ex-Railway DG Touhidul among 7...
+2025-09-17 21:31:20 - INFO - Fetching image from: https://www.bangladeshguardian.com/national/28473
+2025-09-17 21:31:23 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/acc-bg-1758121240.png
+2025-09-17 21:31:24 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 21:31:24 - INFO - ✅ News card created successfully! Size: 584413 bytes
+2025-09-17 21:31:27 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 21:31:27 - INFO - ✅ Article posted successfully
+2025-09-17 21:31:29 - INFO - ✅ Message sent to 7643719042
+2025-09-17 21:31:29 - INFO - Saved 16 posted links
+2025-09-17 21:31:32 - INFO - 🎉 Posted 2 new articles!
+2025-09-17 21:31:32 - INFO - ⏰ Waiting 300 seconds until next check...
+2025-09-17 21:32:15 - INFO - Shutting down bot...
+2025-09-17 21:32:15 - INFO - Saved 16 posted links
+2025-09-17 21:36:50 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 21:36:50 - INFO - Loaded 16 previously posted links
+2025-09-17 21:36:53 - INFO - ✅ Message sent to 7643719042
+2025-09-17 21:36:53 - INFO - 🧪 Creating test news card...
+2025-09-17 21:36:53 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 21:36:53 - INFO - Fetching image from: https://test.com
+2025-09-17 21:37:15 - WARNING - No suitable image found after exhaustive checks
+2025-09-17 21:37:16 - INFO - ✅ News card created successfully! Size: 383591 bytes
+2025-09-17 21:37:18 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 21:37:18 - INFO - 🔄 Starting news check cycle...
+2025-09-17 21:37:18 - INFO - 🔍 Checking for latest news...
+2025-09-17 21:37:22 - INFO - 📰 Found 12 articles
+2025-09-17 21:37:22 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 21:37:22 - INFO - 📰 No new articles to post
+2025-09-17 21:37:22 - INFO - ⏰ Waiting 300 seconds until next check...
+2025-09-17 21:38:21 - INFO - Shutting down bot...
+2025-09-17 21:38:21 - INFO - Saved 16 posted links
+2025-09-17 21:38:22 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 21:38:22 - INFO - Loaded 16 previously posted links
+2025-09-17 21:38:24 - INFO - ✅ Message sent to 7643719042
+2025-09-17 21:38:24 - INFO - 🔄 Starting news check cycle...
+2025-09-17 21:38:24 - INFO - 🔍 Checking for latest news...
+2025-09-17 21:38:27 - INFO - 📰 Found 12 articles
+2025-09-17 21:38:27 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 21:38:27 - INFO - 📰 No new articles to post
+2025-09-17 21:38:27 - INFO - ⏰ Waiting 300 seconds until next check...
+2025-09-17 21:39:00 - INFO - Shutting down bot...
+2025-09-17 21:39:00 - INFO - Saved 16 posted links
+2025-09-17 21:39:01 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 21:39:01 - INFO - Loaded 16 previously posted links
+2025-09-17 21:39:02 - INFO - ✅ Message sent to 7643719042
+2025-09-17 21:39:02 - INFO - 🔄 Starting news check cycle...
+2025-09-17 21:39:02 - INFO - 🔍 Checking for latest news...
+2025-09-17 21:39:06 - INFO - 📰 Found 12 articles
+2025-09-17 21:39:06 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 21:39:06 - INFO - 📰 No new articles to post
+2025-09-17 21:39:06 - INFO - ⏰ Waiting 300 seconds until next check...
+2025-09-17 21:39:45 - INFO - Shutting down bot...
+2025-09-17 21:39:45 - INFO - Saved 16 posted links
+2025-09-17 21:39:46 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 21:39:46 - INFO - Loaded 16 previously posted links
+2025-09-17 21:39:48 - INFO - ✅ Message sent to 7643719042
+2025-09-17 21:39:48 - INFO - 🔄 Starting news check cycle...
+2025-09-17 21:39:48 - INFO - 🔍 Checking for latest news...
+2025-09-17 21:39:52 - INFO - 📰 Found 12 articles
+2025-09-17 21:39:52 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 21:39:52 - INFO - 📰 No new articles to post
+2025-09-17 21:39:52 - INFO - ⏰ Waiting 300 seconds until next check...
+2025-09-17 21:40:10 - INFO - Shutting down bot...
+2025-09-17 21:40:10 - INFO - Saved 16 posted links
+2025-09-17 21:40:18 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 21:40:18 - INFO - No previous links found or invalid JSON, starting fresh: [Errno 2] No such file or directory: 'posted_links.json'
+2025-09-17 21:40:19 - INFO - ✅ Message sent to 7643719042
+2025-09-17 21:40:19 - INFO - 🧪 Creating test news card...
+2025-09-17 21:40:19 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 21:40:19 - INFO - Fetching image from: https://test.com
+2025-09-17 21:40:25 - WARNING - No suitable image found after exhaustive checks
+2025-09-17 21:40:26 - INFO - ✅ News card created successfully! Size: 383591 bytes
+2025-09-17 21:40:28 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 21:40:28 - INFO - 🔄 Starting news check cycle...
+2025-09-17 21:40:28 - INFO - 🔍 Checking for latest news...
+2025-09-17 21:40:32 - INFO - 📰 Found 12 articles
+2025-09-17 21:40:32 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 21:40:32 - INFO - 🆕 New article: Gold prices dropped after hiking 9 times...
+2025-09-17 21:40:32 - INFO - Creating news card for: Gold prices dropped after hiking 9 times...
+2025-09-17 21:40:32 - INFO - Fetching image from: https://www.bangladeshguardian.com/economy/28478
+2025-09-17 21:40:35 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/gold-price-bg-bangladesh-guardian-2-1758122789.png
+2025-09-17 21:40:35 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 21:40:36 - INFO - ✅ News card created successfully! Size: 1229466 bytes
+2025-09-17 21:40:41 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 21:40:41 - INFO - ✅ Article posted successfully
+2025-09-17 21:40:43 - INFO - ✅ Message sent to 7643719042
+2025-09-17 21:40:43 - INFO - Saved 1 posted links
+2025-09-17 21:40:44 - INFO - Shutting down bot...
+2025-09-17 21:40:44 - INFO - Saved 1 posted links
+2025-09-17 21:43:00 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-17 21:43:00 - INFO - Loaded 1 previously posted links
+2025-09-17 21:43:04 - INFO - ✅ Message sent to 7643719042
+2025-09-17 21:43:04 - INFO - 🧪 Creating test news card...
+2025-09-17 21:43:04 - INFO - Creating news card for: 🧪 TEST: Bangladesh Guardian News Bot is now active...
+2025-09-17 21:43:04 - INFO - Fetching image from: https://test.com
+2025-09-17 21:43:07 - WARNING - No suitable image found after exhaustive checks
+2025-09-17 21:43:07 - INFO - ✅ News card created successfully! Size: 383591 bytes
+2025-09-17 21:43:09 - INFO - ✅ Photo sent to 7643719042
+2025-09-17 21:43:09 - INFO - 🔄 Starting news check cycle...
+2025-09-17 21:43:09 - INFO - 🔍 Checking for latest news...
+2025-09-17 21:43:13 - INFO - 📰 Found 12 articles
+2025-09-17 21:43:13 - INFO - ✅ Successfully parsed 12 articles
+2025-09-17 21:43:13 - INFO - 🆕 New article: Forex reserves stand at $31b...
+2025-09-17 21:43:13 - INFO - Creating news card for: Forex reserves stand at $31b...
+2025-09-17 21:43:13 - INFO - Fetching image from: https://www.bangladeshguardian.com/economy/28477
+2025-09-17 21:43:15 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/dollars-bg-1758122240.jpg
+2025-09-17 21:43:15 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 21:43:15 - INFO - ✅ News card created successfully! Size: 1513683 bytes
+2025-09-17 21:43:19 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 21:43:19 - INFO - ✅ Article posted successfully
+2025-09-17 21:43:21 - INFO - ✅ Message sent to 7643719042
+2025-09-17 21:43:21 - INFO - Saved 2 posted links
+2025-09-17 21:43:24 - INFO - 🆕 New article: Durga Puja will be celebrated safely: IGP...
+2025-09-17 21:43:24 - INFO - Creating news card for: Durga Puja will be celebrated safely: IGP...
+2025-09-17 21:43:24 - INFO - Fetching image from: https://www.bangladeshguardian.com/national/28476
+2025-09-17 21:43:26 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/igp-police-baharul-alam-bg-bangladesh-guardian-1758122227.jpg
+2025-09-17 21:43:27 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 21:43:27 - INFO - ✅ News card created successfully! Size: 890686 bytes
+2025-09-17 21:43:30 - INFO - ✅ Photo sent to -1002969172101
+2025-09-17 21:43:30 - INFO - ✅ Article posted successfully
+2025-09-17 21:43:31 - INFO - ✅ Message sent to 7643719042
+2025-09-17 21:43:31 - INFO - Saved 3 posted links
+2025-09-17 21:43:34 - INFO - 🆕 New article: 3 proposals to resolve conflict over designations for engine...
+2025-09-17 21:43:34 - INFO - Creating news card for: 3 proposals to resolve conflict over designations ...
+2025-09-17 21:43:34 - INFO - Fetching image from: https://www.bangladeshguardian.com/national/28475
+2025-09-17 21:43:37 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/fouzul-bg-1758121868.jpg
+2025-09-17 21:43:37 - INFO - ✅ Article image loaded and processed successfully
+2025-09-17 21:43:37 - INFO - Shutting down bot...
+2025-09-17 21:43:37 - INFO - Saved 3 posted links

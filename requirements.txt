@@ -1,0 +1,12 @@
+# Core HTTP client
+requests>=2.31,<3
+
+# HTML parsing
+beautifulsoup4>=4.12,<5
+
+# Image processing
+Pillow>=10,<12
+
+# Browser automation (used to fetch article detail pages)
+selenium>=4.20,<5
+webdriver-manager>=4.0,<5
