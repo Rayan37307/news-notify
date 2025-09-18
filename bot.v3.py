@@ -202,7 +202,6 @@ def fetch_article_image(article_url):
                     options.add_argument(arg)
             driver = webdriver.Chrome(service=service, options=options)
             driver.get(article_url)
-f
             WebDriverWait(driver, 12).until(
                 EC.presence_of_element_located((By.TAG_NAME, "body"))
             )
