@@ -189,8 +189,10 @@ def fetch_article_image(article_url):
             options.add_argument(f"--user-data-dir={tmp_profile_dir}")
             options.add_argument("--no-first-run")
             options.add_argument("--no-default-browser-check")
-            # Use a matching chromedriver
-            service = ChromeService(ChromeDriverManager().install())
+            # Use a matching chromedriver with writable cache directory
+            cache_root = os.getenv("WDM_CACHE", os.path.join(os.path.dirname(__file__), ".wdm"))
+            os.makedirs(cache_root, exist_ok=True)
+            service = ChromeService(ChromeDriverManager(path=cache_root).install())
             # Optional extra runtime flags from env
             extra = os.getenv("CHROME_EXTRA_ARGS")
             if extra:
@@ -718,7 +720,9 @@ def get_latest_news():
         options.add_argument(f"--user-data-dir={tmp_profile_dir}")
         options.add_argument("--no-first-run")
         options.add_argument("--no-default-browser-check")
-        service = ChromeService(ChromeDriverManager().install())
+        cache_root = os.getenv("WDM_CACHE", os.path.join(os.path.dirname(__file__), ".wdm"))
+        os.makedirs(cache_root, exist_ok=True)
+        service = ChromeService(ChromeDriverManager(path=cache_root).install())
         extra = os.getenv("CHROME_EXTRA_ARGS")
         if extra:
             for arg in extra.split():
