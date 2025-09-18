@@ -25,6 +25,7 @@ except Exception:
     ZoneInfo = None
 import tempfile
 import shutil
+from uuid import uuid4
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
@@ -185,7 +186,13 @@ def fetch_article_image(article_url):
         tmp_profile_dir = None
         try:
             # Use a unique user-data-dir to avoid profile lock conflicts on servers
-            tmp_profile_dir = tempfile.mkdtemp(prefix="newsbot-chrome-")
+            runtime_base = os.getenv("XDG_RUNTIME_DIR", os.getenv("TMPDIR", "/tmp"))
+            os.makedirs(runtime_base, exist_ok=True)
+            tmp_profile_dir = os.path.join(
+                runtime_base,
+                f"newsbot-chrome-{int(time.time()*1000)}-{os.getpid()}-{uuid4().hex}"
+            )
+            os.makedirs(tmp_profile_dir, exist_ok=True)
             options.add_argument(f"--user-data-dir={tmp_profile_dir}")
             options.add_argument("--no-first-run")
             options.add_argument("--no-default-browser-check")
@@ -717,7 +724,13 @@ def get_latest_news():
     tmp_profile_dir = None
     try:
         # Use a unique user-data-dir to avoid profile lock conflicts on servers
-        tmp_profile_dir = tempfile.mkdtemp(prefix="newsbot-chrome-")
+        runtime_base = os.getenv("XDG_RUNTIME_DIR", os.getenv("TMPDIR", "/tmp"))
+        os.makedirs(runtime_base, exist_ok=True)
+        tmp_profile_dir = os.path.join(
+            runtime_base,
+            f"newsbot-chrome-{int(time.time()*1000)}-{os.getpid()}-{uuid4().hex}"
+        )
+        os.makedirs(tmp_profile_dir, exist_ok=True)
         options.add_argument(f"--user-data-dir={tmp_profile_dir}")
         options.add_argument("--no-first-run")
         options.add_argument("--no-default-browser-check")
