@@ -28,7 +28,6 @@ import shutil
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
-from webdriver_manager.core.driver_cache import DriverCache
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -190,11 +189,12 @@ def fetch_article_image(article_url):
             options.add_argument(f"--user-data-dir={tmp_profile_dir}")
             options.add_argument("--no-first-run")
             options.add_argument("--no-default-browser-check")
-            # Use a matching chromedriver with writable cache directory
+            # Use a matching chromedriver with writable cache directory (project .wdm)
             cache_root = os.getenv("WDM_CACHE", os.path.join(os.path.dirname(__file__), ".wdm"))
             os.makedirs(cache_root, exist_ok=True)
-            cache = DriverCache(root_dir=cache_root)
-            service = ChromeService(ChromeDriverManager(cache_manager=cache).install())
+            os.environ["WDM_LOCAL"] = "1"  # store in project instead of /root/.wdm
+            os.environ["WDM_CACHE"] = cache_root
+            service = ChromeService(ChromeDriverManager().install())
             # Optional extra runtime flags from env
             extra = os.getenv("CHROME_EXTRA_ARGS")
             if extra:
@@ -723,8 +723,9 @@ def get_latest_news():
         options.add_argument("--no-default-browser-check")
         cache_root = os.getenv("WDM_CACHE", os.path.join(os.path.dirname(__file__), ".wdm"))
         os.makedirs(cache_root, exist_ok=True)
-        cache = DriverCache(root_dir=cache_root)
-        service = ChromeService(ChromeDriverManager(cache_manager=cache).install())
+        os.environ["WDM_LOCAL"] = "1"
+        os.environ["WDM_CACHE"] = cache_root
+        service = ChromeService(ChromeDriverManager().install())
         extra = os.getenv("CHROME_EXTRA_ARGS")
         if extra:
             for arg in extra.split():
