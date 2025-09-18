@@ -191,6 +191,11 @@ def fetch_article_image(article_url):
             options.add_argument("--no-default-browser-check")
             # Use a matching chromedriver
             service = ChromeService(ChromeDriverManager().install())
+            # Optional extra runtime flags from env
+            extra = os.getenv("CHROME_EXTRA_ARGS")
+            if extra:
+                for arg in extra.split():
+                    options.add_argument(arg)
             driver = webdriver.Chrome(service=service, options=options)
             driver.get(article_url)
 
@@ -714,6 +719,10 @@ def get_latest_news():
         options.add_argument("--no-first-run")
         options.add_argument("--no-default-browser-check")
         service = ChromeService(ChromeDriverManager().install())
+        extra = os.getenv("CHROME_EXTRA_ARGS")
+        if extra:
+            for arg in extra.split():
+                options.add_argument(arg)
         driver = webdriver.Chrome(service=service, options=options)
         driver.get(NEWS_URL)
         
@@ -856,15 +865,7 @@ def main():
         startup_msg = f"🤖 News Bot Started!\n📅 {bd_time}\n🔄 Check interval: {CHECK_INTERVAL//60} minutes"
         send_telegram_message_sync(DEBUG_CHAT_ID, startup_msg)
     
-    # Create and send test card
-    logger.info("🧪 Creating test news card...")
-    test_image = create_professional_news_card(
-        "🧪 TEST: Bangladesh Guardian News Bot is now active and ready to post news cards!",
-        "https://test.com"
-    )
-    
-    if test_image and DEBUG_CHAT_ID:
-        send_telegram_photo_sync(DEBUG_CHAT_ID, test_image.getvalue(), "🧪 <b>Test News Card</b>\n\nIf you can see this image card, the bot is working correctly!")
+    # Startup test card disabled for production
     
     # Main loop
     while True:
