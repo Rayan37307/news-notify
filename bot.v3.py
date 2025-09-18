@@ -177,6 +177,9 @@ def fetch_article_image(article_url):
         options.add_argument("--disable-dev-shm-usage")
         options.add_argument("--window-size=1920,1080")
         options.add_argument("user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36")
+        # Reduce Chrome/Driver noisy logs
+        options.add_argument("--log-level=3")
+        options.add_experimental_option('excludeSwitches', ['enable-logging'])
         # Use system Google Chrome if available
         chrome_bin = os.getenv("CHROME_BIN")
         if chrome_bin and os.path.exists(chrome_bin):
@@ -716,6 +719,8 @@ def get_latest_news():
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--window-size=1920,1080")
     options.add_argument("user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36")
+    options.add_argument("--log-level=3")
+    options.add_experimental_option('excludeSwitches', ['enable-logging'])
     chrome_bin = os.getenv("CHROME_BIN")
     if chrome_bin and os.path.exists(chrome_bin):
         options.binary_location = chrome_bin
