@@ -28,6 +28,7 @@ import shutil
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.core.driver_cache import DriverCache
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -192,7 +193,8 @@ def fetch_article_image(article_url):
             # Use a matching chromedriver with writable cache directory
             cache_root = os.getenv("WDM_CACHE", os.path.join(os.path.dirname(__file__), ".wdm"))
             os.makedirs(cache_root, exist_ok=True)
-            service = ChromeService(ChromeDriverManager(path=cache_root).install())
+            cache = DriverCache(root_dir=cache_root)
+            service = ChromeService(ChromeDriverManager(cache_manager=cache).install())
             # Optional extra runtime flags from env
             extra = os.getenv("CHROME_EXTRA_ARGS")
             if extra:
@@ -200,7 +202,7 @@ def fetch_article_image(article_url):
                     options.add_argument(arg)
             driver = webdriver.Chrome(service=service, options=options)
             driver.get(article_url)
-
+f
             WebDriverWait(driver, 12).until(
                 EC.presence_of_element_located((By.TAG_NAME, "body"))
             )
@@ -722,7 +724,8 @@ def get_latest_news():
         options.add_argument("--no-default-browser-check")
         cache_root = os.getenv("WDM_CACHE", os.path.join(os.path.dirname(__file__), ".wdm"))
         os.makedirs(cache_root, exist_ok=True)
-        service = ChromeService(ChromeDriverManager(path=cache_root).install())
+        cache = DriverCache(root_dir=cache_root)
+        service = ChromeService(ChromeDriverManager(cache_manager=cache).install())
         extra = os.getenv("CHROME_EXTRA_ARGS")
         if extra:
             for arg in extra.split():
