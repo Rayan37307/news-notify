@@ -438,25 +438,54 @@ def create_professional_news_card(title, article_url):
                 # Load and process the article image
                 article_img = Image.open(article_image_data)
                 
-                # Paste the processed image into top_area with rounded mask
+                # Calculate the target area dimensions
                 target_w = int(top_area[2] - top_area[0])
                 target_h = int(top_area[3] - top_area[1])
                 
-                # Rounded mask
-                corner_radius = int(min(target_w, target_h) * 0.03)
-                mask = Image.new("L", (target_w, target_h), 0)
+                # Resize the image to fill the target area while maintaining aspect ratio
+                # This will scale up smaller images to fit the space
+                img_w, img_h = article_img.size
+                scale_w = target_w / img_w
+                scale_h = target_h / img_h
+                scale = max(scale_w, scale_h)  # Use max to fill the space
+                
+                new_w = int(img_w * scale)
+                new_h = int(img_h * scale)
+                article_img = article_img.resize((new_w, new_h), Image.Resampling.LANCZOS)
+                
+                # Center the resized image within the target area
+                offset_x = int(top_area[0]) + (target_w - new_w) // 2
+                offset_y = int(top_area[1]) + (target_h - new_h) // 2
+                
+                # Crop the image if it's larger than the target area
+                if new_w > target_w or new_h > target_h:
+                    # Calculate crop box to center crop
+                    crop_x = max(0, (new_w - target_w) // 2)
+                    crop_y = max(0, (new_h - target_h) // 2)
+                    crop_box = (crop_x, crop_y, crop_x + target_w, crop_y + target_h)
+                    article_img = article_img.crop(crop_box)
+                    # Update dimensions after crop
+                    new_w, new_h = target_w, target_h
+                    # Reset offset since we're now fitting exactly
+                    offset_x = int(top_area[0])
+                    offset_y = int(top_area[1])
+                
+                # Create mask for the actual image size
+                corner_radius = int(min(new_w, new_h) * 0.03)
+                mask = Image.new("L", (new_w, new_h), 0)
                 mask_draw = ImageDraw.Draw(mask)
-                mask_draw.rounded_rectangle([0, 0, target_w, target_h], radius=corner_radius, fill=255)
-                image.paste(article_img, (int(top_area[0]), int(top_area[1])), mask)
+                mask_draw.rounded_rectangle([0, 0, new_w, new_h], radius=corner_radius, fill=255)
+                image.paste(article_img, (offset_x, offset_y), mask)
+                
                 # Draw a red border around the pasted image with the same corner radius
                 border_color = (220, 0, 0)
                 border_width = 1
                 draw.rounded_rectangle(
                     [
-                        int(top_area[0]),
-                        int(top_area[1]),
-                        int(top_area[2]),
-                        int(top_area[3])
+                        offset_x,
+                        offset_y,
+                        offset_x + new_w,
+                        offset_y + new_h
                     ],
                     radius=corner_radius,
                     outline=border_color,
@@ -478,12 +507,13 @@ def create_professional_news_card(title, article_url):
             # No image found, use placeholder
             target_w = int(top_area[2] - top_area[0])
             target_h = int(top_area[3] - top_area[1])
-            draw.rectangle(top_area, fill=(240, 240, 240))
+            # Center the placeholder in the target area
             placeholder_text = "📰 NEWS IMAGE"
             placeholder_bbox = draw.textbbox((0, 0), placeholder_text, font=logo_font)
             placeholder_width = placeholder_bbox[2] - placeholder_bbox[0]
+            placeholder_height = placeholder_bbox[3] - placeholder_bbox[1]
             placeholder_x = top_area[0] + (target_w - placeholder_width) // 2
-            placeholder_y = top_area[1] + (target_h - 20) // 2
+            placeholder_y = top_area[1] + (target_h - placeholder_height) // 2
             draw.text((placeholder_x, placeholder_y), placeholder_text, fill=(150, 150, 150), font=logo_font)
             # Draw a red border around the placeholder area to match image border
             corner_radius = int(min(target_w, target_h) * 0.03)

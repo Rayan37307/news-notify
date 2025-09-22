@@ -1011,3 +1011,195 @@ Stacktrace:
 2025-09-22 22:15:35 - INFO - ✅ News card created successfully! Size: 358585 bytes
 2025-09-22 22:15:37 - INFO - ✅ Photo sent to -1002969172101
 2025-09-22 22:15:37 - INFO - ✅ Article posted successfully
+2025-09-22 22:51:39 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-22 22:51:39 - INFO - No previous links found or invalid JSON, starting fresh: Illegal trailing comma before end of array: line 6 column 54 (char 271)
+2025-09-22 22:51:40 - INFO - ✅ Message sent to 7643719042
+2025-09-22 22:51:40 - INFO - 🔄 Starting news check cycle...
+2025-09-22 22:51:40 - INFO - 🔍 Checking for latest news...
+2025-09-22 22:51:40 - INFO - ====== WebDriver manager ======
+2025-09-22 22:51:40 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:51:41 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:51:41 - INFO - Driver [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185/chromedriver-linux64/chromedriver] found in cache
+2025-09-22 22:51:45 - INFO - 📰 Found 12 articles
+2025-09-22 22:51:45 - INFO - ✅ Successfully parsed 12 articles
+2025-09-22 22:51:45 - INFO - 🆕 New article: Expats send remittance of Tk24,778cr till Sep 21...
+2025-09-22 22:51:45 - INFO - Creating news card for: Expats send remittance of Tk24,778cr till Sep 21...
+2025-09-22 22:51:45 - INFO - Fetching image from: https://www.bangladeshguardian.com/economy/28943
+2025-09-22 22:51:45 - INFO - ====== WebDriver manager ======
+2025-09-22 22:51:46 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:51:46 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:51:46 - INFO - Driver [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185/chromedriver-linux64/chromedriver] found in cache
+2025-09-22 22:51:48 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/doller-bangladesh-guardian-1758553965-1758559573.jpg
+2025-09-22 22:51:48 - INFO - ✅ Article image loaded and processed successfully
+2025-09-22 22:51:49 - INFO - ✅ News card created successfully! Size: 741626 bytes
+2025-09-22 22:51:51 - INFO - ✅ Photo sent to -1002969172101
+2025-09-22 22:51:51 - INFO - ✅ Article posted successfully
+2025-09-22 22:51:52 - INFO - ✅ Message sent to 7643719042
+2025-09-22 22:51:52 - INFO - Saved 1 posted links
+2025-09-22 22:51:55 - INFO - 🆕 New article: Man killed after being run over by train in Kushtia...
+2025-09-22 22:51:55 - INFO - Creating news card for: Man killed after being run over by train in Kushti...
+2025-09-22 22:51:55 - INFO - Fetching image from: https://www.bangladeshguardian.com/country/28942
+2025-09-22 22:51:55 - INFO - ====== WebDriver manager ======
+2025-09-22 22:51:55 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:51:55 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:51:55 - INFO - Driver [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185/chromedriver-linux64/chromedriver] found in cache
+2025-09-22 22:51:58 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/img-20-1758557336.jpg
+2025-09-22 22:51:58 - INFO - ✅ Article image loaded and processed successfully
+2025-09-22 22:51:59 - INFO - ✅ News card created successfully! Size: 1002631 bytes
+2025-09-22 22:52:01 - INFO - ✅ Photo sent to -1002969172101
+2025-09-22 22:52:01 - INFO - ✅ Article posted successfully
+2025-09-22 22:52:02 - INFO - ✅ Message sent to 7643719042
+2025-09-22 22:52:02 - INFO - Saved 2 posted links
+2025-09-22 22:52:05 - INFO - 🆕 New article: Gold price hits all-time high, bhori surpasses Tk1,91,196...
+2025-09-22 22:52:05 - INFO - Creating news card for: Gold price hits all-time high, bhori surpasses Tk1...
+2025-09-22 22:52:05 - INFO - Fetching image from: https://www.bangladeshguardian.com/economy/28941
+2025-09-22 22:52:05 - INFO - ====== WebDriver manager ======
+2025-09-22 22:52:05 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:52:06 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:52:06 - INFO - Driver [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185/chromedriver-linux64/chromedriver] found in cache
+2025-09-22 22:52:08 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/golds-bg-1758556897.jpg
+2025-09-22 22:52:08 - INFO - ✅ Article image loaded and processed successfully
+2025-09-22 22:52:09 - INFO - ✅ News card created successfully! Size: 1070156 bytes
+2025-09-22 22:52:11 - INFO - ✅ Photo sent to -1002969172101
+2025-09-22 22:52:11 - INFO - ✅ Article posted successfully
+2025-09-22 22:52:12 - INFO - ✅ Message sent to 7643719042
+2025-09-22 22:52:12 - INFO - Saved 3 posted links
+2025-09-22 22:52:15 - INFO - 🆕 New article: False quote attributed to Home Adviser circulated online...
+2025-09-22 22:52:15 - INFO - Creating news card for: False quote attributed to Home Adviser circulated ...
+2025-09-22 22:52:15 - INFO - Fetching image from: https://www.bangladeshguardian.com/fact-check/28940
+2025-09-22 22:52:15 - INFO - ====== WebDriver manager ======
+2025-09-22 22:52:15 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:52:15 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:52:16 - INFO - Driver [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185/chromedriver-linux64/chromedriver] found in cache
+2025-09-22 22:52:18 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/9cf04-1758556019.jpg
+2025-09-22 22:52:18 - INFO - ✅ Article image loaded and processed successfully
+2025-09-22 22:52:18 - INFO - ✅ News card created successfully! Size: 705921 bytes
+2025-09-22 22:52:21 - INFO - ✅ Photo sent to -1002969172101
+2025-09-22 22:52:21 - INFO - ✅ Article posted successfully
+2025-09-22 22:52:21 - INFO - ✅ Message sent to 7643719042
+2025-09-22 22:52:21 - INFO - Saved 4 posted links
+2025-09-22 22:52:24 - INFO - 🆕 New article: Rangamati emerge champions...
+2025-09-22 22:52:24 - INFO - Creating news card for: Rangamati emerge champions...
+2025-09-22 22:52:24 - INFO - Fetching image from: https://www.bangladeshguardian.com/sports/28939
+2025-09-22 22:52:24 - INFO - ====== WebDriver manager ======
+2025-09-22 22:52:24 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:52:25 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:52:25 - INFO - Driver [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185/chromedriver-linux64/chromedriver] found in cache
+2025-09-22 22:52:28 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/02e34102-1758554360.jpg
+2025-09-22 22:52:28 - INFO - ✅ Article image loaded and processed successfully
+2025-09-22 22:52:29 - INFO - ✅ News card created successfully! Size: 838667 bytes
+2025-09-22 22:52:31 - INFO - ✅ Photo sent to -1002969172101
+2025-09-22 22:52:31 - INFO - ✅ Article posted successfully
+2025-09-22 22:52:32 - INFO - ✅ Message sent to 7643719042
+2025-09-22 22:52:32 - INFO - Saved 5 posted links
+2025-09-22 22:52:35 - INFO - 🆕 New article: Claim of AL leader’s body hanging at Ziaur Rahman’s mausoleu...
+2025-09-22 22:52:35 - INFO - Creating news card for: Claim of AL leader’s body hanging at Ziaur Rahman’...
+2025-09-22 22:52:35 - INFO - Fetching image from: https://www.bangladeshguardian.com/fact-check/28938
+2025-09-22 22:52:35 - INFO - ====== WebDriver manager ======
+2025-09-22 22:52:35 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:52:35 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:52:35 - INFO - Driver [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185/chromedriver-linux64/chromedriver] found in cache
+2025-09-22 22:52:38 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/4-pzqzivp-1758554224.jpg
+2025-09-22 22:52:38 - INFO - ✅ Article image loaded and processed successfully
+2025-09-22 22:52:39 - INFO - ✅ News card created successfully! Size: 793242 bytes
+2025-09-22 22:52:41 - INFO - ✅ Photo sent to -1002969172101
+2025-09-22 22:52:41 - INFO - ✅ Article posted successfully
+2025-09-22 22:52:42 - INFO - ✅ Message sent to 7643719042
+2025-09-22 22:52:42 - INFO - Saved 6 posted links
+2025-09-22 22:52:45 - INFO - 🆕 New article: Wave of international recognition for Palestinian state ahea...
+2025-09-22 22:52:45 - INFO - Creating news card for: Wave of international recognition for Palestinian ...
+2025-09-22 22:52:45 - INFO - Fetching image from: https://www.bangladeshguardian.com/international/28937
+2025-09-22 22:52:45 - INFO - ====== WebDriver manager ======
+2025-09-22 22:52:45 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:52:45 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:52:46 - INFO - Driver [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185/chromedriver-linux64/chromedriver] found in cache
+2025-09-22 22:52:49 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/wave-of-international-recognition-for-palestinian-state-ahead-of-un-general-assembly-1758554219.jpg
+2025-09-22 22:52:49 - INFO - ✅ Article image loaded and processed successfully
+2025-09-22 22:52:49 - INFO - ✅ News card created successfully! Size: 1142553 bytes
+2025-09-22 22:52:52 - INFO - ✅ Photo sent to -1002969172101
+2025-09-22 22:52:52 - INFO - ✅ Article posted successfully
+2025-09-22 22:52:52 - INFO - ✅ Message sent to 7643719042
+2025-09-22 22:52:52 - INFO - Saved 7 posted links
+2025-09-22 22:52:55 - INFO - 🆕 New article: Mashqur Ratul resigns from NCP...
+2025-09-22 22:52:55 - INFO - Creating news card for: Mashqur Ratul resigns from NCP...
+2025-09-22 22:52:55 - INFO - Fetching image from: https://www.bangladeshguardian.com/politics/28936
+2025-09-22 22:52:55 - INFO - ====== WebDriver manager ======
+2025-09-22 22:52:56 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:52:56 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:52:56 - INFO - Driver [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185/chromedriver-linux64/chromedriver] found in cache
+2025-09-22 22:53:00 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/ncp-ratul-bg-1758553955.jpg
+2025-09-22 22:53:00 - INFO - ✅ Article image loaded and processed successfully
+2025-09-22 22:53:00 - INFO - ✅ News card created successfully! Size: 756265 bytes
+2025-09-22 22:53:03 - INFO - ✅ Photo sent to -1002969172101
+2025-09-22 22:53:03 - INFO - ✅ Article posted successfully
+2025-09-22 22:53:03 - INFO - ✅ Message sent to 7643719042
+2025-09-22 22:53:03 - INFO - Saved 8 posted links
+2025-09-22 22:54:57 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-22 22:54:57 - INFO - Loaded 8 previously posted links
+2025-09-22 22:54:58 - INFO - ✅ Message sent to 7643719042
+2025-09-22 22:54:58 - INFO - 🔄 Starting news check cycle...
+2025-09-22 22:54:58 - INFO - 🔍 Checking for latest news...
+2025-09-22 22:54:58 - INFO - ====== WebDriver manager ======
+2025-09-22 22:54:58 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:54:58 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:54:58 - INFO - Driver [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185/chromedriver-linux64/chromedriver] found in cache
+2025-09-22 22:55:02 - INFO - 📰 Found 12 articles
+2025-09-22 22:55:02 - INFO - ✅ Successfully parsed 12 articles
+2025-09-22 22:55:02 - INFO - 🆕 New article: RUCSU election deferred to Oct 16...
+2025-09-22 22:55:02 - INFO - Creating news card for: RUCSU election deferred to Oct 16...
+2025-09-22 22:55:03 - INFO - Fetching image from: https://www.bangladeshguardian.com/education/28935
+2025-09-22 22:55:03 - INFO - ====== WebDriver manager ======
+2025-09-22 22:55:03 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:55:03 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:55:03 - INFO - Driver [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185/chromedriver-linux64/chromedriver] found in cache
+2025-09-22 22:55:05 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/rucsu-bg-1758553635.jpg
+2025-09-22 22:55:05 - INFO - ✅ Article image loaded and processed successfully
+2025-09-22 22:55:06 - INFO - ✅ News card created successfully! Size: 1260031 bytes
+2025-09-22 22:55:08 - INFO - ✅ Photo sent to -1002969172101
+2025-09-22 22:55:08 - INFO - ✅ Article posted successfully
+2025-09-22 22:55:09 - INFO - ✅ Message sent to 7643719042
+2025-09-22 22:55:09 - INFO - Saved 9 posted links
+2025-09-22 22:55:12 - INFO - 🆕 New article: Old video shared as recent statement by Sheikh Hasina in Del...
+2025-09-22 22:55:12 - INFO - Creating news card for: Old video shared as recent statement by Sheikh Has...
+2025-09-22 22:55:12 - INFO - Fetching image from: https://www.bangladeshguardian.com/fact-check/28934
+2025-09-22 22:55:12 - INFO - ====== WebDriver manager ======
+2025-09-22 22:55:12 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:55:13 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:55:13 - INFO - Driver [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185/chromedriver-linux64/chromedriver] found in cache
+2025-09-22 22:55:18 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/4-pzqzivp-1758552286.jpg
+2025-09-22 22:55:19 - INFO - ✅ Article image loaded and processed successfully
+2025-09-22 22:55:20 - INFO - ✅ News card created successfully! Size: 993264 bytes
+2025-09-22 22:55:24 - INFO - ✅ Photo sent to -1002969172101
+2025-09-22 22:55:24 - INFO - ✅ Article posted successfully
+2025-09-22 22:55:25 - INFO - ✅ Message sent to 7643719042
+2025-09-22 22:55:25 - INFO - Saved 10 posted links
+2025-09-22 22:55:28 - INFO - 🆕 New article: Tahsan announces gradual exit from music...
+2025-09-22 22:55:28 - INFO - Creating news card for: Tahsan announces gradual exit from music...
+2025-09-22 22:55:28 - INFO - Fetching image from: https://www.bangladeshguardian.com/entertainment/28933
+2025-09-22 22:55:28 - INFO - ====== WebDriver manager ======
+2025-09-22 22:55:28 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:55:28 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:55:29 - INFO - Driver [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185/chromedriver-linux64/chromedriver] found in cache
+2025-09-22 22:55:31 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/tahsan-khan-bg-1758550532.jpg
+2025-09-22 22:55:31 - INFO - ✅ Article image loaded and processed successfully
+2025-09-22 22:55:32 - INFO - ✅ News card created successfully! Size: 618166 bytes
+2025-09-22 22:55:36 - INFO - ✅ Photo sent to -1002969172101
+2025-09-22 22:55:36 - INFO - ✅ Article posted successfully
+2025-09-22 22:55:37 - INFO - ✅ Message sent to 7643719042
+2025-09-22 22:55:37 - INFO - Saved 11 posted links
+2025-09-22 22:55:40 - INFO - 🆕 New article: Ex-minister Asaduzzaman Noor shown arrested in graft case...
+2025-09-22 22:55:40 - INFO - Creating news card for: Ex-minister Asaduzzaman Noor shown arrested in gra...
+2025-09-22 22:55:40 - INFO - Fetching image from: https://www.bangladeshguardian.com/law-court/28932
+2025-09-22 22:55:40 - INFO - ====== WebDriver manager ======
+2025-09-22 22:55:40 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:55:41 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:55:41 - INFO - Driver [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185/chromedriver-linux64/chromedriver] found in cache
+2025-09-22 22:55:45 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/asaduzzaman-noor-bg-1758550245.jpeg
+2025-09-22 22:55:46 - INFO - ✅ Article image loaded and processed successfully
+2025-09-22 22:55:47 - INFO - ✅ News card created successfully! Size: 1016736 bytes
+2025-09-22 22:55:49 - INFO - ✅ Photo sent to -1002969172101
+2025-09-22 22:55:49 - INFO - ✅ Article posted successfully
+2025-09-22 22:55:51 - INFO - ✅ Message sent to 7643719042
+2025-09-22 22:55:51 - INFO - Saved 12 posted links
+2025-09-22 22:55:54 - INFO - 🎉 Posted 4 new articles!
+2025-09-22 22:55:54 - INFO - ⏰ Waiting 300 seconds until next check...
