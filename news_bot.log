@@ -861,3 +861,153 @@
 2025-09-17 21:43:37 - INFO - ✅ Article image loaded and processed successfully
 2025-09-17 21:43:37 - INFO - Shutting down bot...
 2025-09-17 21:43:37 - INFO - Saved 3 posted links
+2025-09-18 22:39:51 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-18 22:39:51 - INFO - Loaded 3 previously posted links
+2025-09-18 22:39:51 - INFO - ✅ Message sent to 7643719042
+2025-09-18 22:39:51 - INFO - 🔄 Starting cycle...
+2025-09-18 22:39:51 - INFO - 🔍 Checking for latest news...
+2025-09-18 22:39:51 - INFO - ====== WebDriver manager ======
+2025-09-18 22:39:51 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-18 22:39:52 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2025-09-18 22:39:52 - INFO - Driver downloading response is 200
+2025-09-18 22:40:00 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-18 22:40:00 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-18 22:40:00 - INFO - Driver has been saved in cache [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2025-09-18 22:40:01 - ERROR - ❌ Error scraping news: Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 140.0.7339.127 with binary path /usr/sbin/chromium; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55ab728a14e3 <unknown>
+#1 0x55ab725d0c76 <unknown>
+#2 0x55ab725fe04a <unknown>
+#3 0x55ab725f94a1 <unknown>
+#4 0x55ab725f6029 <unknown>
+#5 0x55ab72634ccc <unknown>
+#6 0x55ab7263447f <unknown>
+#7 0x55ab7262bde3 <unknown>
+#8 0x55ab726012dd <unknown>
+#9 0x55ab7260234e <unknown>
+#10 0x55ab728613e4 <unknown>
+#11 0x55ab728653d7 <unknown>
+#12 0x55ab7286fb20 <unknown>
+#13 0x55ab72866023 <unknown>
+#14 0x55ab728341aa <unknown>
+#15 0x55ab7288a6b8 <unknown>
+#16 0x55ab7288a847 <unknown>
+#17 0x55ab7289a243 <unknown>
+#18 0x7f57880a80d6 <unknown>
+
+2025-09-18 22:40:01 - INFO - No articles to process
+2025-09-18 22:40:01 - INFO - ⏰ Waiting 600s...
+2025-09-18 22:40:05 - INFO - Shutting down bot...
+2025-09-18 22:40:05 - INFO - Saved 3 posted links
+2025-09-18 22:42:30 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-18 22:42:30 - INFO - Loaded 3 previously posted links
+2025-09-18 22:42:31 - INFO - ✅ Message sent to 7643719042
+2025-09-18 22:42:31 - INFO - 🔄 Starting news check cycle...
+2025-09-18 22:42:31 - INFO - 🔍 Checking for latest news...
+2025-09-18 22:42:31 - INFO - ====== WebDriver manager ======
+2025-09-18 22:42:31 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-18 22:42:31 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2025-09-18 22:42:31 - INFO - Driver downloading response is 200
+2025-09-18 22:42:39 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-18 22:42:39 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-18 22:42:40 - INFO - Driver has been saved in cache [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2025-09-18 22:42:40 - ERROR - ❌ Error scraping news: Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 140.0.7339.127 with binary path /usr/sbin/chromium; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x560625f074e3 <unknown>
+#1 0x560625c36c76 <unknown>
+#2 0x560625c6404a <unknown>
+#3 0x560625c5f4a1 <unknown>
+#4 0x560625c5c029 <unknown>
+#5 0x560625c9accc <unknown>
+#6 0x560625c9a47f <unknown>
+#7 0x560625c91de3 <unknown>
+#8 0x560625c672dd <unknown>
+#9 0x560625c6834e <unknown>
+#10 0x560625ec73e4 <unknown>
+#11 0x560625ecb3d7 <unknown>
+#12 0x560625ed5b20 <unknown>
+#13 0x560625ecc023 <unknown>
+#14 0x560625e9a1aa <unknown>
+#15 0x560625ef06b8 <unknown>
+#16 0x560625ef0847 <unknown>
+#17 0x560625f00243 <unknown>
+#18 0x7f18f1ea80d6 <unknown>
+
+2025-09-18 22:42:40 - INFO - No articles to process
+2025-09-18 22:42:40 - INFO - ⏰ Waiting 300 seconds until next check...
+2025-09-18 22:42:43 - INFO - Shutting down bot...
+2025-09-18 22:42:43 - INFO - Saved 3 posted links
+2025-09-22 22:14:44 - INFO - 🚀 Starting Bangladesh Guardian News Bot
+2025-09-22 22:14:44 - INFO - Loaded 3 previously posted links
+2025-09-22 22:14:45 - INFO - ✅ Message sent to 7643719042
+2025-09-22 22:14:45 - INFO - 🔄 Starting news check cycle...
+2025-09-22 22:14:45 - INFO - 🔍 Checking for latest news...
+2025-09-22 22:14:45 - INFO - ====== WebDriver manager ======
+2025-09-22 22:14:45 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:14:46 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:14:46 - INFO - There is no [linux64] chromedriver "140.0.7339.185" for browser google-chrome "140.0.7339" in cache
+2025-09-22 22:14:46 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:14:46 - INFO - WebDriver version 140.0.7339.185 selected
+2025-09-22 22:14:46 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.185/linux64/chromedriver-linux64.zip
+2025-09-22 22:14:46 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.185/linux64/chromedriver-linux64.zip
+2025-09-22 22:14:47 - INFO - Driver downloading response is 200
+2025-09-22 22:14:57 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:14:57 - INFO - Driver has been saved in cache [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185]
+2025-09-22 22:15:01 - INFO - 📰 Found 12 articles
+2025-09-22 22:15:01 - INFO - ✅ Successfully parsed 12 articles
+2025-09-22 22:15:01 - INFO - 🆕 New article: Man killed after being run over by train in Kushtia...
+2025-09-22 22:15:01 - INFO - Creating news card for: Man killed after being run over by train in Kushti...
+2025-09-22 22:15:01 - INFO - Fetching image from: https://www.bangladeshguardian.com/country/28942
+2025-09-22 22:15:01 - INFO - ====== WebDriver manager ======
+2025-09-22 22:15:01 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:15:02 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:15:02 - INFO - Driver [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185/chromedriver-linux64/chromedriver] found in cache
+2025-09-22 22:15:04 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/img-20-1758557336.jpg
+2025-09-22 22:15:04 - ERROR - Error processing article image: images do not match
+2025-09-22 22:15:05 - INFO - ✅ News card created successfully! Size: 365530 bytes
+2025-09-22 22:15:07 - INFO - ✅ Photo sent to -1002969172101
+2025-09-22 22:15:07 - INFO - ✅ Article posted successfully
+2025-09-22 22:15:08 - INFO - ✅ Message sent to 7643719042
+2025-09-22 22:15:08 - INFO - Saved 4 posted links
+2025-09-22 22:15:11 - INFO - 🆕 New article: Gold price hits all-time high, bhori surpasses Tk1,91,196...
+2025-09-22 22:15:11 - INFO - Creating news card for: Gold price hits all-time high, bhori surpasses Tk1...
+2025-09-22 22:15:11 - INFO - Fetching image from: https://www.bangladeshguardian.com/economy/28941
+2025-09-22 22:15:11 - INFO - ====== WebDriver manager ======
+2025-09-22 22:15:11 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:15:11 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:15:11 - INFO - Driver [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185/chromedriver-linux64/chromedriver] found in cache
+2025-09-22 22:15:13 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/golds-bg-1758556897.jpg
+2025-09-22 22:15:13 - ERROR - Error processing article image: images do not match
+2025-09-22 22:15:14 - INFO - ✅ News card created successfully! Size: 369987 bytes
+2025-09-22 22:15:16 - INFO - ✅ Photo sent to -1002969172101
+2025-09-22 22:15:16 - INFO - ✅ Article posted successfully
+2025-09-22 22:15:17 - INFO - ✅ Message sent to 7643719042
+2025-09-22 22:15:17 - INFO - Saved 5 posted links
+2025-09-22 22:15:20 - INFO - 🆕 New article: False quote attributed to Home Adviser circulated online...
+2025-09-22 22:15:20 - INFO - Creating news card for: False quote attributed to Home Adviser circulated ...
+2025-09-22 22:15:20 - INFO - Fetching image from: https://www.bangladeshguardian.com/fact-check/28940
+2025-09-22 22:15:20 - INFO - ====== WebDriver manager ======
+2025-09-22 22:15:20 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:15:20 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:15:21 - INFO - Driver [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185/chromedriver-linux64/chromedriver] found in cache
+2025-09-22 22:15:23 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/9cf04-1758556019.jpg
+2025-09-22 22:15:23 - ERROR - Error processing article image: images do not match
+2025-09-22 22:15:23 - INFO - ✅ News card created successfully! Size: 369140 bytes
+2025-09-22 22:15:26 - INFO - ✅ Photo sent to -1002969172101
+2025-09-22 22:15:26 - INFO - ✅ Article posted successfully
+2025-09-22 22:15:26 - INFO - ✅ Message sent to 7643719042
+2025-09-22 22:15:26 - INFO - Saved 6 posted links
+2025-09-22 22:15:29 - INFO - 🆕 New article: Rangamati emerge champions...
+2025-09-22 22:15:29 - INFO - Creating news card for: Rangamati emerge champions...
+2025-09-22 22:15:29 - INFO - Fetching image from: https://www.bangladeshguardian.com/sports/28939
+2025-09-22 22:15:29 - INFO - ====== WebDriver manager ======
+2025-09-22 22:15:30 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:15:31 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:15:32 - INFO - Driver [/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185/chromedriver-linux64/chromedriver] found in cache
+2025-09-22 22:15:34 - INFO - Using meta image: https://backoffice.bangladeshguardian.com/media/imgAll/2025September/English/02e34102-1758554360.jpg
+2025-09-22 22:15:34 - ERROR - Error processing article image: images do not match
+2025-09-22 22:15:35 - INFO - ✅ News card created successfully! Size: 358585 bytes
+2025-09-22 22:15:37 - INFO - ✅ Photo sent to -1002969172101
+2025-09-22 22:15:37 - INFO - ✅ Article posted successfully

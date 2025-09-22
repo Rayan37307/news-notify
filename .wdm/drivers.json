@@ -1,0 +1,10 @@
+{
+    "linux64_chromedriver_114.0.5735.90_for_": {
+        "timestamp": "18/09/2025",
+        "binary_path": "/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver"
+    },
+    "linux64_chromedriver_140.0.7339.185_for_140.0.7339": {
+        "timestamp": "22/09/2025",
+        "binary_path": "/home/rayan/news-agent/agent/.wdm/drivers/chromedriver/linux64/140.0.7339.185/chromedriver-linux64/chromedriver"
+    }
+}

@@ -438,44 +438,10 @@ def create_professional_news_card(title, article_url):
                 # Load and process the article image
                 article_img = Image.open(article_image_data)
                 
-                # Resize image to fit the top section
-                img_width = width
-                img_height = top_section_height
-                
-                # Calculate aspect ratio to maintain proportions
-                img_aspect = article_img.width / article_img.height
-                target_aspect = img_width / img_height
-                
-                if img_aspect > target_aspect:
-                    # Image is wider, crop width
-                    new_width = int(img_height * img_aspect)
-                    article_img = article_img.resize((new_width, img_height), Image.Resampling.LANCZOS)
-                    left = (new_width - img_width) // 2
-                    article_img = article_img.crop((left, 0, left + img_width, img_height))
-                else:
-                    # Image is taller, crop height
-                    new_height = int(img_width / img_aspect)
-                    article_img = article_img.resize((img_width, new_height), Image.Resampling.LANCZOS)
-                    top = (new_height - img_height) // 2
-                    article_img = article_img.crop((0, top, img_width, top + img_height))
-                
                 # Paste the processed image into top_area with rounded mask
                 target_w = int(top_area[2] - top_area[0])
                 target_h = int(top_area[3] - top_area[1])
-                # First, scale the article image to a fixed height (680px) to maximize quality
-                pre_height = 680
-                img_aspect = article_img.width / article_img.height
-                pre_width = int(pre_height * img_aspect)
-                article_img = article_img.resize((pre_width, pre_height), Image.Resampling.LANCZOS)
-                # Then center-crop to the target area size
-                if pre_width < target_w:
-                    # If still too narrow, scale up to target width keeping aspect
-                    pre_width = target_w
-                    pre_height = int(pre_width / img_aspect)
-                    article_img = article_img.resize((pre_width, pre_height), Image.Resampling.LANCZOS)
-                left = int(max(0, (pre_width - target_w) // 2))
-                top_crop = int(max(0, (pre_height - target_h) // 2))
-                article_img = article_img.crop((left, top_crop, left + target_w, top_crop + target_h))
+                
                 # Rounded mask
                 corner_radius = int(min(target_w, target_h) * 0.03)
                 mask = Image.new("L", (target_w, target_h), 0)
